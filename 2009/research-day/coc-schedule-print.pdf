@@ -1,0 +1,765 @@
+%!PS-Adobe-3.0
+%%BoundingBox: 18 36 577 806
+%%Title: Enscript Output
+%%Creator: GNU enscript 1.6.4
+%%CreationDate: Mon Sep 21 01:12:48 2009
+%%Orientation: Landscape
+%%Pages: (atend)
+%%DocumentMedia: A4 595 842 0 () ()
+%%DocumentNeededResources: (atend)
+%%EndComments
+%%BeginProlog
+%%BeginResource: procset Enscript-Prolog 1.6 4
+%
+% Procedures.
+%
+
+/_S {	% save current state
+  /_s save def
+} def
+/_R {	% restore from saved state
+  _s restore
+} def
+
+/S {	% showpage protecting gstate
+  gsave
+  showpage
+  grestore
+} bind def
+
+/MF {	% fontname newfontname -> -	make a new encoded font
+  /newfontname exch def
+  /fontname exch def
+
+  /fontdict fontname findfont def
+  /newfont fontdict maxlength dict def
+
+  fontdict {
+    exch
+    dup /FID eq {
+      % skip FID pair
+      pop pop
+    } {
+      % copy to the new font dictionary
+      exch newfont 3 1 roll put
+    } ifelse
+  } forall
+
+  newfont /FontName newfontname put
+
+  % insert only valid encoding vectors
+  encoding_vector length 256 eq {
+    newfont /Encoding encoding_vector put
+  } if
+
+  newfontname newfont definefont pop
+} def
+
+/MF_PS { % fontname newfontname -> -	make a new font preserving its enc
+  /newfontname exch def
+  /fontname exch def
+
+  /fontdict fontname findfont def
+  /newfont fontdict maxlength dict def
+
+  fontdict {
+    exch
+    dup /FID eq {
+      % skip FID pair
+      pop pop
+    } {
+      % copy to the new font dictionary
+      exch newfont 3 1 roll put
+    } ifelse
+  } forall
+
+  newfont /FontName newfontname put
+
+  newfontname newfont definefont pop
+} def
+
+/SF { % fontname width height -> -	set a new font
+  /height exch def
+  /width exch def
+
+  findfont
+  [width 0 0 height 0 0] makefont setfont
+} def
+
+/SUF { % fontname width height -> -	set a new user font
+  /height exch def
+  /width exch def
+
+  /F-gs-user-font MF
+  /F-gs-user-font width height SF
+} def
+
+/SUF_PS { % fontname width height -> -	set a new user font preserving its enc
+  /height exch def
+  /width exch def
+
+  /F-gs-user-font MF_PS
+  /F-gs-user-font width height SF
+} def
+
+/M {moveto} bind def
+/s {show} bind def
+
+/Box {	% x y w h -> -			define box path
+  /d_h exch def /d_w exch def /d_y exch def /d_x exch def
+  d_x d_y  moveto
+  d_w 0 rlineto
+  0 d_h rlineto
+  d_w neg 0 rlineto
+  closepath
+} def
+
+/bgs {	% x y height blskip gray str -> -	show string with bg color
+  /str exch def
+  /gray exch def
+  /blskip exch def
+  /height exch def
+  /y exch def
+  /x exch def
+
+  gsave
+    x y blskip sub str stringwidth pop height Box
+    gray setgray
+    fill
+  grestore
+  x y M str s
+} def
+
+/bgcs { % x y height blskip red green blue str -> -  show string with bg color
+  /str exch def
+  /blue exch def
+  /green exch def
+  /red exch def
+  /blskip exch def
+  /height exch def
+  /y exch def
+  /x exch def
+
+  gsave
+    x y blskip sub str stringwidth pop height Box
+    red green blue setrgbcolor
+    fill
+  grestore
+  x y M str s
+} def
+
+% Highlight bars.
+/highlight_bars {	% nlines lineheight output_y_margin gray -> -
+  gsave
+    setgray
+    /ymarg exch def
+    /lineheight exch def
+    /nlines exch def
+
+    % This 2 is just a magic number to sync highlight lines to text.
+    0 d_header_y ymarg sub 2 sub translate
+
+    /cw d_output_w cols div def
+    /nrows d_output_h ymarg 2 mul sub lineheight div cvi def
+
+    % for each column
+    0 1 cols 1 sub {
+      cw mul /xp exch def
+
+      % for each rows
+      0 1 nrows 1 sub {
+        /rn exch def
+        rn lineheight mul neg /yp exch def
+        rn nlines idiv 2 mod 0 eq {
+	  % Draw highlight bar.  4 is just a magic indentation.
+	  xp 4 add yp cw 8 sub lineheight neg Box fill
+	} if
+      } for
+    } for
+
+  grestore
+} def
+
+% Line highlight bar.
+/line_highlight {	% x y width height gray -> -
+  gsave
+    /gray exch def
+    Box gray setgray fill
+  grestore
+} def
+
+% Column separator lines.
+/column_lines {
+  gsave
+    .1 setlinewidth
+    0 d_footer_h translate
+    /cw d_output_w cols div def
+    1 1 cols 1 sub {
+      cw mul 0 moveto
+      0 d_output_h rlineto stroke
+    } for
+  grestore
+} def
+
+% Column borders.
+/column_borders {
+  gsave
+    .1 setlinewidth
+    0 d_footer_h moveto
+    0 d_output_h rlineto
+    d_output_w 0 rlineto
+    0 d_output_h neg rlineto
+    closepath stroke
+  grestore
+} def
+
+% Do the actual underlay drawing
+/draw_underlay {
+  ul_style 0 eq {
+    ul_str true charpath stroke
+  } {
+    ul_str show
+  } ifelse
+} def
+
+% Underlay
+/underlay {	% - -> -
+  gsave
+    0 d_page_h translate
+    d_page_h neg d_page_w atan rotate
+
+    ul_gray setgray
+    ul_font setfont
+    /dw d_page_h dup mul d_page_w dup mul add sqrt def
+    ul_str stringwidth pop dw exch sub 2 div ul_h_ptsize -2 div moveto
+    draw_underlay
+  grestore
+} def
+
+/user_underlay {	% - -> -
+  gsave
+    ul_x ul_y translate
+    ul_angle rotate
+    ul_gray setgray
+    ul_font setfont
+    0 0 ul_h_ptsize 2 div sub moveto
+    draw_underlay
+  grestore
+} def
+
+% Page prefeed
+/page_prefeed {		% bool -> -
+  statusdict /prefeed known {
+    statusdict exch /prefeed exch put
+  } {
+    pop
+  } ifelse
+} def
+
+% Wrapped line markers
+/wrapped_line_mark {	% x y charwith charheight type -> -
+  /type exch def
+  /h exch def
+  /w exch def
+  /y exch def
+  /x exch def
+
+  type 2 eq {
+    % Black boxes (like TeX does)
+    gsave
+      0 setlinewidth
+      x w 4 div add y M
+      0 h rlineto w 2 div 0 rlineto 0 h neg rlineto
+      closepath fill
+    grestore
+  } {
+    type 3 eq {
+      % Small arrows
+      gsave
+        .2 setlinewidth
+        x w 2 div add y h 2 div add M
+        w 4 div 0 rlineto
+        x w 4 div add y lineto stroke
+
+        x w 4 div add w 8 div add y h 4 div add M
+        x w 4 div add y lineto
+	w 4 div h 8 div rlineto stroke
+      grestore
+    } {
+      % do nothing
+    } ifelse
+  } ifelse
+} def
+
+% EPSF import.
+
+/BeginEPSF {
+  /b4_Inc_state save def    		% Save state for cleanup
+  /dict_count countdictstack def	% Count objects on dict stack
+  /op_count count 1 sub def		% Count objects on operand stack
+  userdict begin
+  /showpage { } def
+  0 setgray 0 setlinecap
+  1 setlinewidth 0 setlinejoin
+  10 setmiterlimit [ ] 0 setdash newpath
+  /languagelevel where {
+    pop languagelevel
+    1 ne {
+      false setstrokeadjust false setoverprint
+    } if
+  } if
+} bind def
+
+/EndEPSF {
+  count op_count sub { pos } repeat	% Clean up stacks
+  countdictstack dict_count sub { end } repeat
+  b4_Inc_state restore
+} bind def
+
+% Check PostScript language level.
+/languagelevel where {
+  pop /gs_languagelevel languagelevel def
+} {
+  /gs_languagelevel 1 def
+} ifelse
+%%EndResource
+%%BeginResource: procset Enscript-Encoding-88591 1.6 4
+/encoding_vector [
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/space        	/exclam       	/quotedbl     	/numbersign   	
+/dollar       	/percent      	/ampersand    	/quoteright   	
+/parenleft    	/parenright   	/asterisk     	/plus         	
+/comma        	/hyphen       	/period       	/slash        	
+/zero         	/one          	/two          	/three        	
+/four         	/five         	/six          	/seven        	
+/eight        	/nine         	/colon        	/semicolon    	
+/less         	/equal        	/greater      	/question     	
+/at           	/A            	/B            	/C            	
+/D            	/E            	/F            	/G            	
+/H            	/I            	/J            	/K            	
+/L            	/M            	/N            	/O            	
+/P            	/Q            	/R            	/S            	
+/T            	/U            	/V            	/W            	
+/X            	/Y            	/Z            	/bracketleft  	
+/backslash    	/bracketright 	/asciicircum  	/underscore   	
+/quoteleft    	/a            	/b            	/c            	
+/d            	/e            	/f            	/g            	
+/h            	/i            	/j            	/k            	
+/l            	/m            	/n            	/o            	
+/p            	/q            	/r            	/s            	
+/t            	/u            	/v            	/w            	
+/x            	/y            	/z            	/braceleft    	
+/bar          	/braceright   	/tilde        	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/.notdef      	/.notdef      	/.notdef      	/.notdef      	
+/space        	/exclamdown   	/cent         	/sterling     	
+/currency     	/yen          	/brokenbar    	/section      	
+/dieresis     	/copyright    	/ordfeminine  	/guillemotleft	
+/logicalnot   	/hyphen       	/registered   	/macron       	
+/degree       	/plusminus    	/twosuperior  	/threesuperior	
+/acute        	/mu           	/paragraph    	/bullet       	
+/cedilla      	/onesuperior  	/ordmasculine 	/guillemotright	
+/onequarter   	/onehalf      	/threequarters	/questiondown 	
+/Agrave       	/Aacute       	/Acircumflex  	/Atilde       	
+/Adieresis    	/Aring        	/AE           	/Ccedilla     	
+/Egrave       	/Eacute       	/Ecircumflex  	/Edieresis    	
+/Igrave       	/Iacute       	/Icircumflex  	/Idieresis    	
+/Eth          	/Ntilde       	/Ograve       	/Oacute       	
+/Ocircumflex  	/Otilde       	/Odieresis    	/multiply     	
+/Oslash       	/Ugrave       	/Uacute       	/Ucircumflex  	
+/Udieresis    	/Yacute       	/Thorn        	/germandbls   	
+/agrave       	/aacute       	/acircumflex  	/atilde       	
+/adieresis    	/aring        	/ae           	/ccedilla     	
+/egrave       	/eacute       	/ecircumflex  	/edieresis    	
+/igrave       	/iacute       	/icircumflex  	/idieresis    	
+/eth          	/ntilde       	/ograve       	/oacute       	
+/ocircumflex  	/otilde       	/odieresis    	/divide       	
+/oslash       	/ugrave       	/uacute       	/ucircumflex  	
+/udieresis    	/yacute       	/thorn        	/ydieresis    	
+] def
+%%EndResource
+%%EndProlog
+%%BeginSetup
+%%IncludeResource: font Courier-Bold
+%%IncludeResource: font Courier
+/HFpt_w 10 def
+/HFpt_h 10 def
+/Courier-Bold /HF-gs-font MF
+/HF /HF-gs-font findfont [HFpt_w 0 0 HFpt_h 0 0] makefont def
+/Courier /F-gs-font MF
+/F-gs-font 7 7 SF
+/#copies 1 def
+% Pagedevice definitions:
+gs_languagelevel 1 gt {
+  <<
+    /PageSize [595 842] 
+  >> setpagedevice
+} if
+%%BeginResource: procset Enscript-Header-enscript 1.6 4
+%%IncludeResource: font Times-Bold
+%%IncludeResource: font Times-Roman
+
+% Fonts.
+/Times-Bold /HeaderFont-Bold MF
+/HeaderDateF /HeaderFont-Bold findfont 12 scalefont def
+
+/Times-Roman /HeaderFont-Times MF
+/HeaderHDRF /HeaderFont-Times findfont 14 scalefont def
+
+/HeaderPageNumF /Helvetica-Bold findfont 28.8 scalefont def
+
+/do_header {	% print enscript header
+  gsave
+    d_header_x d_header_y translate
+
+    % light bar
+    0 0 d_header_w d_header_h 2 div Box
+    .95 setgray fill
+
+    % dark gray boxes
+    /dbw d_header_h 2 mul def	% dark box width
+    /dbc .7 def			% dark box color
+
+    % left dark box.
+    0 0 dbw d_header_h Box
+    dbc setgray fill
+
+    0 setgray 
+    HeaderDateF setfont
+    moddatestr dup stringwidth pop dbw exch sub 2 div 
+    d_header_h 2 div 2 add moveto show
+    modtimestr dup stringwidth pop dbw exch sub 2 div 
+    d_header_h 5 div moveto show
+
+    % right dark box
+    d_header_w dbw sub 0 dbw d_header_h Box
+    dbc setgray fill
+
+    HeaderPageNumF setfont
+    1 setgray
+    pagenumstr dup
+    stringwidth pop dbw exch sub 2 div d_header_w dbw sub add
+    d_header_h .2 mul moveto show
+
+    % filename
+    0 setgray 
+    HeaderHDRF setfont
+    d_header_w fname stringwidth pop sub 2 div d_header_h 8 div moveto
+    fname show
+
+    % user supplied header string.
+    user_header_p {
+      /h d_header_h 8 div 5 mul def
+
+      % Implement strict enscript compatibility.
+      user_header_center_str () eq user_header_right_str () eq and {
+        d_header_w user_header_left_str stringwidth pop sub 2 div 
+        h moveto user_header_left_str show
+      } {
+        dbw 5 add h moveto user_header_left_str show
+
+        d_header_w user_header_center_str stringwidth pop sub 2 div 
+        h moveto user_header_center_str show
+
+	d_header_w dbw sub 5 sub user_header_right_str stringwidth pop
+	sub h moveto user_header_right_str show
+      } ifelse
+    } if
+
+  grestore
+} def
+%%EndResource
+/d_page_w 770 def
+/d_page_h 559 def
+/d_header_x 0 def
+/d_header_y 523 def
+/d_header_w 770 def
+/d_header_h 36 def
+/d_footer_x 0 def
+/d_footer_y 0 def
+/d_footer_w 770 def
+/d_footer_h 0 def
+/d_output_w 770 def
+/d_output_h 523 def
+/cols 3 def
+%%EndSetup
+%%Page: (1) 1
+%%BeginPageSetup
+_S
+90 rotate
+36 -577 translate
+/pagenum 1 def
+/fname (coc-schedule.txt) def
+/fdir () def
+/ftail (coc-schedule.txt) def
+% User defined strings:
+/pagenumstr (1) def
+/moddatestr (09/21/2009) def
+/modtimestr (01:12:43 AM) def
+/user_header_p false def
+/user_footer_p false def
+%%EndPageSetup
+column_lines
+do_header
+5 513 M
+(Session 1A: Networking, Security, and Machine Learning) s
+5 505 M
+(Klaus 1116W, 1:00 - 3:00pm) s
+5 497 M
+(-------------------------------------------------------) s
+5 489 M
+(Network Inference) s
+5 481 M
+(Partha Kanuparthy \(advisor: Constantine Dovrolis\)) s
+5 465 M
+(Answering What-If Deployment and Configuration Questions w) s
+5 457 M
+(ith WISE) s
+5 449 M
+(Mukarram bin Tariq \(advisor: Nick Feamster\)) s
+5 433 M
+(MyMANET: A Customizable Mobile Ad hoc Network) s
+5 425 M
+(Ashwin Paranjpe \(advisor: Santosh Vempala\)) s
+5 409 M
+(SNARE: Spatio-Temporal Network-level Automated Reputation ) s
+5 401 M
+(Engine) s
+5 393 M
+(Shuang Hao \(advisor: Nick Feamster\)) s
+5 377 M
+(Robust Signatures for Kernel Data Structures) s
+5 369 M
+(Brendan Dolan-Gavitt \(advisor: Jon Giffin & Wenke Lee\)) s
+5 353 M
+(Security Information From DNS Monitoring) s
+5 345 M
+(Manos Antonakakis \(advisor: Wenke Lee\)) s
+5 329 M
+(Fast Nearest Neighbor Search by Rank Approximation) s
+5 321 M
+(Parikshit Ram \(advisor: Alexander Gray\)) s
+5 305 M
+(Multi-Class Multi-Label Multi-Instance Classification \(M3C) s
+5 297 M
+(\) and Its Application in Named Entity Mining from Query/Cl) s
+5 289 M
+(ickthrough Logs ) s
+5 281 M
+(Shuang Hong Yang \(advisor: Hongyuan Zha\)) s
+5 265 M
+(Augmenting Aerial Earth Maps with Dynamic Information) s
+5 257 M
+(Kihwan Kim \(advisor: Irfan Essa\)) s
+5 241 M
+(Recognizing Sign Language from Brain Signals) s
+5 233 M
+(Nishant Mehta \(advisor: Melody Moore Jackson\)) s
+5 217 M
+(Session 1B: Software Eng., Systems, and Architecture) s
+5 209 M
+(Klaus 1116E, 1:00 - 3:00pm) s
+5 201 M
+(-----------------------------------------------------) s
+5 193 M
+(IP-TV and the Streaming Cloud) s
+5 185 M
+(Dave Lillethun \(advisor: Umakishore Ramachandran\)) s
+5 169 M
+(Monitoring Continuous State Violation in Datacenters: Expl) s
+5 161 M
+(oring the Time Dimension ) s
+5 153 M
+(Shicong Meng \(advisor: Ling Liu\)) s
+5 137 M
+(Spatial Alarms: Challenges and Techniques) s
+5 129 M
+(Bhuvan Bamba \(advisor: Ling Liu\)) s
+5 113 M
+(OpenShmem and OpenStruct: Data object optimization in glob) s
+5 105 M
+(al memory) s
+5 97 M
+(Peter Budny ) s
+5 89 M
+(\(advisor: Karsten Schwan\)) s
+5 73 M
+(Speeding up sequential computations through n-version para) s
+5 65 M
+(llelism) s
+5 57 M
+(Romain Cledat \(advisor: Santosh Pande\)) s
+5 25 M
+(Performance Degradation due to Voltage and Frequency Scali) s
+5 17 M
+(ng in Modern Processors ) s
+5 9 M
+(Hrishikesh Amur ) s
+261.667 513 M
+(\(advisor: Karsten Schwan\)) s
+261.667 497 M
+(Taint-based Dynamic Analysis) s
+261.667 489 M
+(Jim Clause \(advisor: Alex Orso\)) s
+261.667 473 M
+(Evaluating Cues for Resuming Interrupted Programming Tasks) s
+261.667 465 M
+(Chris Parnin \(advisor: Spencer Rugaber\)) s
+261.667 449 M
+(Analyzing the Effects of Program Changes with Dependence A) s
+261.667 441 M
+(nalysis and Symbolic Execution ) s
+261.667 433 M
+(Raul Santelices) s
+261.667 425 M
+(\(advisor: Mary Jean Harrold\)) s
+261.667 409 M
+(Neighborhood of Nodes Directory Scaling for Manycore Proce) s
+261.667 401 M
+(ssors) s
+261.667 393 M
+(Jesse Beu \(advisor: Tom Conte\)) s
+261.667 377 M
+(GPU analytical model) s
+261.667 369 M
+(Sunpyo Hong \(advisor: Hyesoon Kim\)) s
+261.667 345 M
+(Session 2A: HCI & Robotics) s
+261.667 337 M
+(Klaus 1116W, 4:00 - 6:00pm) s
+261.667 329 M
+(--------------------------) s
+261.667 321 M
+(Connect to Congress: Visual Analytics for Civic Oversight) s
+261.667 313 M
+(Peter Kinnaird \(advisor: Gregory Abowd\)) s
+261.667 297 M
+(Infrastructure Mediated Sensing using Home Powerlines) s
+261.667 289 M
+(Erich Stuntebeck \(advisor: Gregory Abowd\)) s
+261.667 273 M
+(Supporting Human Analysis of Behavior in Everyday Environm) s
+261.667 265 M
+(ents) s
+261.667 257 M
+(Mario Romero \(advisor: Gregory Abowd\)) s
+261.667 241 M
+(Using an Ecological Framework to Design Mobile Technologie) s
+261.667 233 M
+(s for Pediatric Asthma Management ) s
+261.667 225 M
+(Hee Young Jeong ) s
+261.667 217 M
+(\(advisor: Rosa Arriaga and Gregory Abowd\)) s
+261.667 201 M
+(Technological Advice Sharing in Homes \(or: \342\\200\\234Why Do) s
+261.667 193 M
+( I Need a Help Manual When I Have You?\342\\200\\235\)) s
+261.667 185 M
+(Erika S. Poole \(advisor: Keith Edwards\)) s
+261.667 169 M
+(Mobile Technology for the Urban Homeless) s
+261.667 161 M
+(Christopher A. Le Dantec \(advisor: Keith Edwards\)) s
+261.667 145 M
+(Social Networks, Wikipedia, Video Games, and Online Animat) s
+261.667 137 M
+(ions) s
+261.667 129 M
+(Sarita Yardi \(advisor: Amy Bruckman\)) s
+261.667 113 M
+(Visual Analytics for Investigative Analysis) s
+261.667 105 M
+(Carsten G\303\266rg \(advisor: John Stasko\)) s
+261.667 89 M
+(Effects of Social Exploration Mechanisms on Robot Learning) s
+261.667 81 M
+(Nick DePalma \(advisor: Andrea Thomaz\)) s
+261.667 65 M
+(Using a Compliant Robot for Manipulation in Indoor Human E) s
+261.667 57 M
+(nvironments) s
+261.667 49 M
+(Advait Jain \(advisor: Charlie Kemp\)) s
+261.667 33 M
+(PPS-Tags: Physical, Perceptual, and Semantic Tags for Auto) s
+261.667 25 M
+(nomous Mobile) s
+261.667 17 M
+(Manipulation ) s
+261.667 9 M
+(Hai Nguyen \(advisor: Charlie Kemp\)) s
+518.333 497 M
+(Session 2B: Graphics & Theory) s
+518.333 489 M
+(Klaus 1116E, 4:00-6:00pm) s
+518.333 481 M
+(-----------------------------) s
+518.333 473 M
+(Fast Distributed Random Walks) s
+518.333 465 M
+(Atish Das Sarma \(advisor: Richard J. Lipton\)) s
+518.333 449 M
+(Skyline Computation in Database System) s
+518.333 441 M
+(Danupon Nanongkai \(advisor: Richard J Lipton\)) s
+518.333 425 M
+(Encryption Schemes for Outsourced Databases) s
+518.333 417 M
+(Adam O'Neill \(advisor: Sasha Boldyreva\)) s
+518.333 401 M
+(Deterministic Algorithm for Lovasz Local Lemma) s
+518.333 393 M
+(Karthekeyan Chandrasekaran \(advisor: Santosh Vempala\)) s
+518.333 377 M
+(Uniform Sampling for Star Shaped Bodies) s
+518.333 369 M
+(Daniel Dadush \(advisor: Santosh Vempala\)) s
+518.333 353 M
+(Phase Transition for the Mixing Time of the Glauber Dynami) s
+518.333 345 M
+(cs for Coloring Regular Trees) s
+518.333 337 M
+(Linji Yang \(advisor: Eric Vigoda\)) s
+518.333 321 M
+(B-morphs between b-compatible curves in the plane) s
+518.333 313 M
+(Brian Whited \(advisor: Jarek Rossignac\)) s
+518.333 297 M
+(SOT: Compact Representation for Tetrahedral Meshes) s
+518.333 289 M
+(Topraj Gurung \(advisor: Jarek Rossignac\)) s
+518.333 273 M
+(Animating Responsive Characters with Dynamic Constraints i) s
+518.333 265 M
+(n the Near-Unactuated Coordinates) s
+518.333 257 M
+(Yuting Ye \(advisor: Karen Liu\)) s
+518.333 241 M
+(Optimization-Based Interactive Motion Synthesis) s
+518.333 233 M
+(Sumit Jain \(advisor: Karen Liu\)) s
+518.333 217 M
+(Fast Animation of Viscoelastic Materials) s
+518.333 209 M
+(Chris Wojtan \(advisor: Greg Turk\)) s
+_R
+S
+%%Trailer
+%%Pages: 1
+%%DocumentNeededResources: font Times-Roman Courier-Bold Courier 
+%%+ font Times-Bold 
+%%EOF

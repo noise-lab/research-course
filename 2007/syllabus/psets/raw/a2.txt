@@ -1,0 +1,36 @@
+@SHORT@ = "A2"
+@OUT@ = "October 19, 2007"
+@LONG@ = "Assignment 2"
+@TITLE@ = "Cross-Pollination"
+@DUE@ = "October 26, 2007"
+
+@PURPOSE@
+
+The purpose of this assignment is to encourage {\em cross-pollination}
+of ideas across research areas.  Many great research ideas involve
+applying concepts or techniques from one area to another.  This
+assignment will help you both learn about research in other areas and
+experiment with combining ideas from your research area with those from
+other areas to come up with new ideas.
+
+
+@PROBLEM@
+
+For each of the two research papers you selected in the first
+assignment, you should find a paper from another research area and come
+up with a possible research topic that involves the combination of the
+ideas from the two research areas.  Each paper must be matched with a
+different research area.
+
+@TASK@
+
+\begin{enumerate}
+\itemsep=-1pt
+\item Compose a research proposal for each of the two new ideas.  Your
+research proposal should be a 1-page description of the problem that
+answers the following questions: (1)~why the problem you are proposing
+to solve is important; (2)~Why the combination of the two ideas makes
+sense; and (3)~How you might go about solving the problem you propose.
+\item Prepare a talk on one of your ideas that address the questions
+  above.
+\end{enumerate}

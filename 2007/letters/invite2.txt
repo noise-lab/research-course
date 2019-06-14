@@ -1,0 +1,30 @@
+Hi @INVITE@,
+
+Alex Gray and I are organizing CS 7001 this year, and we would like to
+bring faculty members in to talk under one of two general topic areas:
+
+(1) research skills and philosophy (e.g., how to select a problem, good
+ideas vs. bad ideas, theory vs. practice, etc.)
+
+(2) "big ideas" or open problems (e.g., What's wrong with the Internet?)
+
+We would like to invite you to come in and talk about @TOPIC@, although
+we are generally receptive to having you speak about anything you want.
+Your talk can be as short as 20 minutes or as long as one hour.
+
+Please see:
+http://www.cc.gatech.edu/classes/AY2007/cs7001_fall/syllabus.html#Schedule
+for available dates.  As you can see, most dates are presently open.  The
+class meets on Mondays and Wednesdays (and, if you prefer, Fridays) from
+10-11am in Boggs B6A.  
+
+We really hope you will come speak to the class.  Giving a CS 7001 lecture
+is not only a great service to the new PhD students, but we will also
+advertise these lectures to the whole department.
+
+We very much hope that you will be able to come give us a lecture.  What do
+you think?  
+
+Thanks,
+Nick Feamster
+Alex Gray

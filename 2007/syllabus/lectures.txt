@@ -1,0 +1,191 @@
+# This file defines the lectures for the class.  The syllabus is
+# automatically generated from this file.
+
+# Date:  [Lecture type]
+#        blank:  normal lecture
+#        noclass [explanation text]
+#        exam    [exam name]
+# I:  Instructor   (overrides the global INSTRUCTOR)
+# T:  Title
+# S:  slides ref (looks in lectures/<name>.{ppt,pdf,ps,html}
+# V:  Video list (links to coursecast)
+# R:  Readings (copied verbatim)
+# N:  Notes (copied verbatim)
+# A:  Topic Area (generates a heading)
+# RB: BibTeX ref::URL
+
+CLASS: 'CS 7001: Introduction to Graduate Studies'
+CLASS_SHORT: CS7001
+SUMMARY: CS 7001
+YEAR:  2007
+TERM:  Fall
+INSTRUCTOR:  Nick Feamster / Alex Gray
+LOCATION:  CCB 102
+START_TIME: '5:05'
+END_TIME: '5:55'
+READINGBASE:  http://www.cc.gatech.edu/~feamster/classes/CS7260-SP07/papers
+SHOW_LECNUM: yes
+SHOW_INSTRUCTOR: no
+HIGHLIGHT_DUE: yes
+ALTERNATE: week
+HEADSPAN: 5
+
+LECTURES:
+
+- 8/20:
+        T: 'Course Overview'
+        S: course-overview
+        N: '<a href="psets/ma1.pdf">Mini-Assignment 1</a>: <br />Thought Questions'
+
+- 8/22:
+        T: 'Ph.D.: Why? Expectations, opportunities, etc.'
+        S: phd-why
+
+- 8/24:
+        T: 'CoC Picnic (Piedmont Park)'
+
+- 8/27:
+        T: 'Problem Selection and Cross-Disciplinary Research (<i>Dick
+        Lipton/Merrick Furst</i>)' 
+  
+- 8/29: 
+        T: 'Fellowships (<i>Karen Adams and Student Panel</i>)'
+
+- 8/31:
+        T: 'School of IC: Research Questions and Trends (<i>Aaron Bobick</i>)' 
+
+- 9/3:
+        type: noclass
+        T: 'Labor Day'
+
+- 9/5:
+        T: 'Overview of College (<i>Rich DeMillo</i>)'
+
+- 9/7:
+        T: 'School of CS: Research Questions and Trends (<i>Mostafa Ammar, Gabe Loh, Santosh Vempala</i>)'
+
+- 9/10:
+        T: 'Division of CSE: Research Questions and Trends'
+
+- 9/12:
+        T: 'Reading and Reviewing Papers'
+        S: reading-reviewing
+
+- 9/14:
+        type: noclass
+        N: '<a href="psets/a1.pdf">Assignment 1</a>: <br
+        />Recognizing Good Ideas'
+
+- 9/17:
+        T: 'On Research #1: The Nature of Great Research'
+        S: nature-of-great-research
+
+- 9/19:
+        T: 'On Research #2: Executing Great Research'
+        S: great-research
+
+- 9/21:
+        T: 'Division of CSE: Examples of Cross-Disciplinary Research'
+
+- 9/24:
+        T: 'Life in Atlanta (<i>Student Panel</i>)'
+
+- 9/26:
+        T: 'On Research #3: Research Patterns'
+        S: research-patterns
+
+- 9/28: 
+        T: 'School of IC: Examples of Cross-Disciplinary Research'
+
+- 10/1:
+        T: 'Motivation and Procrastination'
+        S: motivation-and-procrastination
+
+- 10/3:
+        T: 'Time Management'
+        S: time-management
+
+- 10/5:
+        T: 'School of CS: Examples of Cross-Disciplinary Research'
+        N: '<a href="psets/ma2.pdf">Mini-Assignment 2</a>: <br />Time Log'
+
+- 10/8:
+        type: noclass
+        T: 'Fall Break'
+
+- 10/10:
+        T: 'Personal Promotion (<i>Stefany Wilson</i>)'
+        S: people-skills
+
+- 10/12:
+        T: 'Clear and Creative Thinking'
+        S: creativity
+
+- 10/15: 
+        T: 'How to Write a Paper'
+        S: how-to-write-a-paper
+
+- 10/17:
+        T: 'How to Give a Talk'
+        S: how-to-give-a-talk
+
+- 10/19:
+        T: 'Teaching and TAing  (<i>Donna Llewellyn</i>)'
+        N: '<a href="psets/a2.pdf">Assignment 2</a>: <br />Combination of Two Papers'
+
+- 10/22:
+        T: 'Overview of Centers (CERCS, GTISC, etc.)'
+
+- 10/24:
+        T: 'Grad School Survival Skills (<i>Student Panel</i>)'
+
+- 10/26:
+        T: 'Progamming and Software Development'
+        S: 
+
+- 10/29:
+        T: 'Experimental and Evaluation Skills'
+
+- 10/31:
+        T: 'Human-Centered Research (<i>Beth Mynatt</i>)'
+        N: '<a href="psets/ma3.pdf">Mini-Assignment 3</a>: <br />Personal Web Page'
+
+
+- 11/02:
+        T: 'Understanding and Presenting Data'
+        S: data
+
+- 11/05:
+        T: 'Math Tips'
+
+- 11/07:
+        T: ''
+
+- 11/09:
+        T: 'Research Logistics'
+        N: '<a href="psets/raw/a3.txt">Assignment 3</a>: <br />Reviewing+Mock PC'
+
+- 11/12:
+        T: 'Industry and Government Jobs (<i>Faculty Panel</i>)'
+
+- 11/14:
+        T: 'Commercialization (<i>Merrick Furst/Wenke Lee</i>)'
+
+- 11/16:
+        T: 'Diversity and Women in Computing (<i>Maureen Biggers and Faculty Panel</i>)'
+
+- 11/19:
+        T: 'Broader Impacts of CS (<i>Santosh Vempala/Mike Best</i>)'
+        N: '<a href="psets/raw/ma4.txt">Mini-Assignment 4</a>: <br />Multi-Res. Elevator Pitch'
+
+- 11/26:
+        T: 'Mini-Conference'
+        
+- 11/28:
+        T: 'Mini-Conference'
+
+- 11/30:
+        T: 'Mini Conference'
+
+- 12/07:
+        T: 'Project Writeup Due'

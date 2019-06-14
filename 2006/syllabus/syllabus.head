@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html 
+ PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xml:lang="en" lang="en">
+
+<head>
+<title>Syllabus</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body id="syllabus">
+<div id="syllint">
+<h1>CS 7001: Introduction to Graduate Studies</h1>
+
+
+<div id="objectives">
+  <h2>Objectives<a name="Objectives"></a></h2>
+  <p>
+  This class will prepare you to perform great research in
+computer science, regardless of the area you ultimately choose to
+pursue for your Ph.D.  Towards achieving this goal, this course will:
+</p>
+
+<ul class="nobullets"> <li> Teach you many skills that you will keep in your "research
+toolbox" for the rest of your career: </li>
+
+    <li>
+    <ul>
+      <li> time management</li>
+      <li> productivity and (selective) procrastination</li>
+      <li> how to read a research paper</li>
+      <li> how to review a research paper</li>
+      <li> how to write a research paper (technical writing) </li>
+      <li> how to generate ideas, creativity, sources of problems</li>
+      <li> information management (research notebooks, etc.)</li>
+      <li> how to give a good talk</li>
+      <li> how to write a proposal</li>
+      <li> how to be a good TA</li>
+    </ul>
+
+    </li>
+
+    <li> Find some inspiration regarding open problems and big ideas</li>
+   </ul>
+
+</div>
+
+
+<div id="textbooks">
+  <h2>Textbooks<a name="Textbooks"></a></h2>
+
+  <p>You will be expected to read some material on graduate school, research, etc., which will be assigned throughout the term. <br />
+
+  There are no required textbooks for the course.  </p>
+
+</div>
+
+<div id="pregrade"> <div id="Prerequisites"> 
+<h2>Prerequisites</h2>
+<p> None.  </p>
+</div>
+
+<div id="Grading">
+<h2>Grading</h2>
+<p>
+Grading will be based on group assignments, a group presentation, and
+a writeup based on semester-long project with your faculty advisor for
+the term.
+</p>
+</div>
+</div>
+
+<div id="Schedule">
+  <h2>Schedule<a name="Schedule"></a></h2>
+  <p>Papers will not be handed out in class.  <b>Please print the readings
+  and read them before class.</b></p>
+
+<table>
+  <tr>
+   <th>Lecture</th>
+   <th>Date</th>
+   <th>Topics</th>
+   <th>Notes/Resources</th>
+   <th>Preparation</th>
+ </tr>
+

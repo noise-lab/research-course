@@ -1,0 +1,95 @@
+<!DOCTYPE html 
+ PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+<title>Syllabus</title>
+<link rel="stylesheet" type="text/css" href="style.css" />
+</head>
+
+<body id="syllabus">
+<div id="syllint">
+<h1>CS 7001: Introduction to Graduate Studies</h1>
+
+
+<div id="objectives">
+  <h2>Objectives<a name="Objectives"></a></h2>
+  <p>
+  This class will prepare you to perform great research in
+computer science, regardless of the area you ultimately choose to
+pursue for your Ph.D.  Towards achieving this goal, this course will:
+</p>
+
+<ul class="nobullets"> <li> Teach you many skills that you will keep in your "research
+toolbox" for the rest of your career: </li>
+
+    <li>
+    <ul>
+      <li> time management</li>
+      <li> productivity and (selective) procrastination</li>
+      <li> how to read a research paper</li>
+      <li> how to review a research paper</li>
+      <li> how to write a research paper (technical writing) </li>
+      <li> how to generate ideas, creativity, sources of problems</li>
+      <li> information management (research notebooks, etc.)</li>
+      <li> how to give a good talk</li>
+      <li> how to write a proposal</li>
+      <li> how to be a good TA</li>
+    </ul>
+
+    </li>
+
+    <li> Find some inspiration regarding open problems and big ideas</li>
+    <li> Offer general tips for life in graduate school and beyond</li>
+   </ul>
+
+</div>
+
+
+<div id="textbooks">
+  <h2>Textbooks<a name="Textbooks"></a></h2>
+
+  <p>You will be expected to read some material on graduate school, research, etc., which will be assigned throughout the term. <br />
+
+  There are no required textbooks for the course.  </p>
+
+</div>
+
+<div id="pregrade"> <div id="Prerequisites"> 
+<h2>Prerequisites</h2>
+<p> You must be a first-year Ph.D. student in the College of Computing.  </p>
+</div>
+
+<div id="Grading">
+<h2>Grading</h2>
+<p>
+<b>This course will have a letter grade: A, B, or Fail.</b>
+The components of the grade are as follows:
+<ul>
+<li>4 Assignments (30%)</li>
+<li>5 Mini-Assignments (20%)</li>
+<li>1 Main Project (30%)</li>
+<li>2+ Mini-Projects (10%)</li>
+<li>Participation (10%)</li>
+</ul>
+You must have more than 50% in each category <i>and</i> complete
+66% of the course to pass.
+</p>
+</div>
+</div>
+
+<div id="Schedule">
+  <h2>Schedule<a name="Schedule"></a></h2>
+  <p>Papers will not be handed out in class.  <br /><b>Please print the readings 
+  and read them before class.</b> <br /><b>Speaker schedule is tentative!</b></p>
+
+<table>
+  <tr>
+   <th>Lecture</th>
+   <th>Date</th>
+   <th>Topics</th>
+   <th>Notes/Resources</th>
+   <th>Preparation</th>
+ </tr>
+

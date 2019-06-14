@@ -1,0 +1,35 @@
+@SHORT@ = "MA1"
+@OUT@ = "August 24, 2007"
+@LONG@ = "Mini-Assignment 1"
+@TITLE@ = "Thought Questions"
+@DUE@ = "August 31, 2007"
+
+@PURPOSE@
+
+The purpose of this assignment is to encourage you to write down your
+current goals for getting a Ph.D.  Putting your thoughts down on paper
+will help you think clearly about the ``big picture'' reasons that you
+are here.  During the course of graduate school, you may want to revist
+these ``macro'' goals to see whether you are making progress towards
+achieving them.
+
+@PROBLEM@
+
+XXX Problem details XXX
+
+@TASK@
+
+Write a response to the following questions:
+\begin{itemize}
+\itemsep=-1pt
+    \item Why are you doing the Ph.D.? (1-2 paragraphs)
+    \item What research/researchers do you strive to emulate?
+    \item What research result(s) do you most admire?
+\end{itemize}
+\noindent
+If this is your first exposure to research, you may have a difficult
+time answering the latter questions, but now is a very good time to
+start seeking out examples of research (and researchers) that you
+value.  This process will begin the process of developing
+research ``taste'' which you will continue to refine throughout your
+research career.

@@ -1,0 +1,91 @@
+% rubber: paper letter
+
+\documentclass{sig-alternate-pretty}
+\usepackage{amssymb}
+\usepackage{epsfig}
+\usepackage{amsmath}
+\usepackage{times}
+\usepackage{url}
+\usepackage{theorem}
+\usepackage{subfigure}
+
+\theoremstyle{plain}
+ 
+
+\widowpenalty 100000
+\clubpenalty 100000
+  
+\newtheorem{defn}{Definition}[section]
+\newtheorem{theorem}{Theorem}[section]
+\newtheorem{prob}[theorem]{Problem}
+\newtheorem{example}[theorem]{Example}
+\newtheorem{prop}[theorem]{Proposition}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{remark}[theorem]{Remark}
+\newcommand{\reals}{\ensuremath{\mathbb{R}}}
+ 
+\def\eps{\varepsilon}
+\def\R{\reals}
+\def\E{{\sf E}}
+\def\Pr{{\sf P}}
+\def\Var{{\sf Var}}
+
+\newcommand{\ie}{{\em i.e.}}
+\newcommand{\eg}{{\em e.g.}}
+\newcommand{\ea}{{\em et al. }}
+\newcommand{\eans}{{\em et al.}}
+ 
+\long\def\privremark#1{\par\medskip\hrule\medskip{\sl#1}\medskip\hrule\medskip}
+%\long\def\privremark#1{}
+
+
+\begin{document}
+
+\title{Can Great Research Be Taught?  Independent Research
+  with Cross-Disciplinary Thinking and Broader Impact}
+%A Introductory Ph.D.-Level Course on
+%  Cross-Disciplinary Research with Broader Impact} 
+%Experiences Teaching Independent
+%  Research with Cross-Disciplinary and Broader Impact to Incoming
+%  Ph.D. Students\vspace*{-0.25in}}
+ 
+%%Alternate: Reliable Connectivity and Rapid Recovery with Path Splicing
+\author{\hspace*{0.5in}{Nick Feamster and Alexander Gray} \\ \hspace{0.5in}\affaddr{College of Computing, Georgia Tech}}
+%\author{Authors Removed}
+ 
+\date{}
+\maketitle
+
+\begin{sloppypar}
+
+\input{abstract}
+
+\vspace{1mm}
+\noindent
+{\bf Categories and Subject Descriptors:} K.3.2 {[Computers and
+    Education]}: {Computer science education, Curriculum}
+
+\vspace{1mm}
+\noindent
+{\bf General Terms:} Human Factors, Design
+
+\vspace{1mm}
+\noindent
+{\bf Keywords:} Ph.D., graduate education, research
+
+
+\input{intro}
+\input{components}
+\input{progress}
+\input{related}
+\input{conclusion} 
+
+\end{sloppypar}
+
+\begin{small}
+\bibliographystyle{abbrv}
+\bibliography{paper}
+\end{small}
+
+\end{document}

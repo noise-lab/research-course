@@ -1,0 +1,271 @@
+body, html { 
+  color: #000000;
+  background: #ffffff;
+}
+
+a {
+ text-decoration: none ;
+ color: #991133 ;
+}
+
+a:hover {
+        text-decoration: underline
+}
+
+a:visited { 
+  color:  #408860;
+}
+
+h1 { 
+  color: black;
+  background:  white;
+  border-bottom: solid 0.05em black;
+  padding: .1em;
+  margin: 0;
+  margin-bottom: .1em;
+  font-style: normal;
+  font-weight: normal;
+
+}
+
+h2 {
+        font-size: 145% ;
+        font-weight: bold ;
+        color: #000000 ;
+        color-grey: #bbbbbb
+}
+
+ul.nobullets {
+  list-style-type: none
+}
+
+p.lastupdated { 
+  font-size: 70%;
+  font-style: italic;
+  margin-bottom: 0;
+}
+
+p.contact {
+  margin-top: 0;
+  font-size: 70%;
+}
+
+p.footnote {
+  margin-top: 0;
+  font-size: 70%;
+}
+
+
+body#announcements {
+  background: black;
+  font-face: Arial;
+}
+
+#announcements p { 
+  color: maroon;
+}
+
+#announcements h1 { 
+  color: #ffffff;
+  text-align: center;
+  font-size: 110%;
+  text-decoration: underline;
+}
+
+/* The alternating announcement colors */
+#announcements p.one { color: #ff0000; }
+#announcements p.two { color: #00ff00; }
+#announcements p.three { color: #3333ff; }
+
+.announce_date { font-weight: bold; }
+
+.contents { 
+  background: #800000;
+  color: #ffffff;
+}
+
+.contents  ul {
+  list-style-type: none;
+  font-size: 110%;
+  margin-left: 0;
+  padding-left: 0;
+  margin-bottom: 0.5em;
+}
+
+.contents ul a:link {    color:  #ffff00; text-decoration: underline;}
+.contents ul a:visited { color:  #ffff00; text-decoration: underline; }
+
+.contents ul ul { 
+  font-size: 90%;
+  padding-left: 0.5em;
+}
+
+
+#Schedule th { 
+  background: darkblue;
+  color: white;
+  font-weight: bold; 
+}
+
+#Schedule table {
+  width: 98%;
+  margin-left: 1%;
+  margin-right: 1%;
+}
+
+#Schedule table,tr,th,td { 
+  padding: 3px;  
+  border-width: 1px; 
+  border-spacing: 0px; 
+  border-collapse:  collapse;
+}
+#Schedule tr,td { 
+  border-width: 1px;  
+  border-style: solid;  
+  border-color: black;
+}
+
+/* Presentation:  No underlines on links in schedule unless you're
+ * moving the mouse over it. */
+
+#Schedule tr.lecture { background: #eeffff; }
+#Schedule tr.lecture.alt { background: #ffeeff; }
+#Schedule tr.noclass { background: lightgrey; }
+#Schedule tr.exam    { background: pink; }
+#Schedule tr.presentations { background: lightblue; }
+#Schedule td.lechead { 
+  border-top: solid 0.25em blue;
+  border-bottom: solid 0.25em blue;
+  text-align: center;
+  background: white;	
+  color: black; 
+  font-face: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  font-style: italic;
+}
+
+#Schedule td.due {
+  background: #ffeeaa;
+  font-weight: bold;
+}
+
+
+#Readings { 
+}
+
+#textbooks { 
+}
+
+
+div#objectives { 
+  position: relative; 
+  width: 100%;
+  border-bottom: 1px solid darkblue;  
+}
+
+
+div#textbooks { 
+  position: relative; 
+  width: 100%;  
+}
+
+div#pregrade { 
+  position: relative;
+  border: 1px solid darkblue;
+}
+
+div#Prerequisites { 
+  position: relative;
+  vertical-align: top;
+  float: left;
+  width: 45%; 
+  height: 99%;
+  text-width: 95%;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-right: 1em;
+}
+div#Grading { 
+  position: relative;
+  vertical-align: top;
+  float: right;
+  padding-left: 1em;
+  border-left: 1px solid darkblue;
+  padding-right: 1em;
+  width: 45%;
+  height: 99%;
+}
+
+
+
+div.term {
+  text-align: left;
+  padding-left: 0.1em;
+  color: red;
+  font-size: 150%;
+  font-weight: normal;
+}
+
+div.boxleft { 
+  position: relative;
+  vertical-align: top;
+  float: left;
+  width: 45%; 
+  height: 99%;
+  text-width: 90%;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-right: 1em;
+}
+div.boxright { 
+  position: relative;
+  vertical-align: top;
+  float: right;
+  padding-left: 1em;
+  padding-right: 1em;
+  width: 45%;
+  height: 99%;
+}
+div.boxboth { 
+  position: relative;
+  vertical-align: top;
+  float: left;
+  width: 90%; 
+  height: 99%;
+  text-width: 90%;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-right: 1em;
+}
+div.footerbox { 
+  position: relative;
+  vertical-align: top;
+  float: left;
+  width: 90%; 
+  height: 99%;
+  text-width: 90%;
+  padding-left: 1em;
+  padding-right: 1em;
+  margin-right: 1em;
+  border-top: 1px solid black;
+}
+
+
+
+
+
+
+#Schedule h2 { text-align: center; }
+
+div#Schedule {
+  border-top: 1px solid darkblue;
+  clear: both;
+  margin-top: 5em;
+  float:  none;
+  width: 100%;
+}
+
+dl.idealist dt { 
+  margin-top: 1em;  
+  font-size:  110%;
+  }

@@ -1,0 +1,281 @@
+
+\newcommand{\newc}{\newcommand}
+
+\newc{\code}[1]{{\tt #1}}
+\newc{\func}[1]{{\em #1\/}}
+
+\newc{\be}{\begin{enumerate}}
+\newc{\ee}{\end{enumerate}}
+
+\newc{\bi}{\begin{itemize}}
+\newc{\ei}{\end{itemize}}
+
+\newc{\bd}{\begin{description}}
+\newc{\ed}{\end{description}}
+
+\newc{\ov}[1]{$\overline{#1}$}
+\newc{\instr}{\tt}
+
+\newc{\doublespace}{\renewcommand{\baselinestretch}{1.5}}
+
+\newcommand{\figref}[1]{Figure~\ref{#1}}
+\newcommand{\tref}[1]{Table~\ref{#1}}
+
+% Captioned table
+\newc{\tbl}[3]{
+        \begin{table}[htb]
+                \centering
+                #1
+                \caption{#3}
+                \label{#2}
+        \end{table}
+}
+
+% Input a table.
+\newcommand{\dblfig}[3]{
+        \begin{figure}[htb]
+		\centering
+                \input{#1}
+                \caption{#3}
+                \label{#2}
+        \end{figure}
+}
+
+\newcommand{\ddblfig}[4]{
+        \begin{figure}[htb]
+		\hspace{-0.1in}
+                \psfig{figure=#1,width=0.45\textwidth}
+                \caption{#3}
+                \label{#2}
+        \end{figure}
+}
+
+% Figure with no caption
+\newcommand{\nofig}[2]{
+        \begin{figure}[htb]
+                \centering
+                \psfig{figure=#1}
+                \label{#2}
+        \end{figure}
+}
+
+% Whole page figure
+\newcommand{\schfig}[3]{
+        \begin{figure}[p]
+                \centering
+                \psfig{figure=#1,height=7in}
+                \caption{#3}
+                \label{#2}
+        \end{figure}
+}
+
+% Small figure
+\newcommand{\sfig}[3]{
+        \begin{figure}[ltb]
+                \centering
+               \hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}\vspace{3mm}
+                \psfig{figure=#1,width=0.4\textwidth}
+                \caption{#3}
+                \label{#2}
+               \vspace{3mm}\hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}
+        \end{figure}
+}
+
+% Medium figure
+\newcommand{\mfig}[3]{
+        \begin{figure}[ltb]
+		\centering
+               \hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}\vspace{1mm}
+                \psfig{figure=#1,height=2.5in}
+                \caption{#3}
+                \label{#2}
+               \vspace{0mm}\hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}
+        \end{figure}
+}
+
+\newcommand{\widefig}[4]{
+        \begin{figure*}[htb]
+                \centering
+               \hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}\vspace{5mm}
+                \psfig{figure=#1,width=#3}
+                \caption{#4}
+                \label{#2}
+               \vspace{5mm}\hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}
+        \end{figure*}
+}
+
+\newcommand{\mcfig}[4]{
+        \begin{figure}[htbp]
+                \centering
+               \hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}\vspace{5mm}
+                \psfig{figure=#1,width=#3}
+                \caption{#4}
+                \label{#2}
+               \vspace{5mm}\hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}
+        \end{figure}
+}
+
+\newcommand{\docfig}[3]{
+        \begin{figure}[htbp]
+               \hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}\vspace{5mm}
+                \centering
+                \psfig{figure=#1,width=#3}
+                \label{#2}
+               \vspace{5mm}\hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}
+        \end{figure}
+}
+
+% Medium-large figure
+\newcommand{\mlfig}[3]{
+        \begin{figure}[htb]
+                \centering
+               \hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}\vspace{5mm}
+                \psfig{figure=#1,height=3.25in}
+                \caption{#3}
+                \label{#2}
+               \vspace{5mm}\hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}
+        \end{figure}
+}
+
+% Large figure
+\newcommand{\lfig}[3]{
+        \begin{figure}[p]
+                \centering
+               \hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}\vspace{5mm}
+                \psfig{figure=#1,height=5in}
+                \caption{#3}
+                \label{#2}
+               \vspace{5mm}\hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}
+        \end{figure}
+}
+
+% 'gg' figures are the double column versions of the 'g' figures above.
+\newcommand{\sfigg}[3]{
+        \begin{figure*}[htb]
+                \centering
+               \hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}\vspace{5mm}
+                \psfig{figure=#1,height=1.5in}
+                \caption{#3}
+                \label{#2}
+               \vspace{5mm}\hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}
+        \end{figure*}
+}
+
+% Medium figure
+\newcommand{\mfigg}[3]{
+        \begin{figure*}
+                \centering
+               \hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}\vspace{5mm}
+                \psfig{figure=#1,width=\linewidth}
+                \caption{#3}
+                \label{#2}
+               \vspace{0mm}\hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}
+        \end{figure*}
+}
+
+% Medium-large figure
+\newcommand{\mlfigg}[3]{
+        \begin{figure*}[htb]
+                \centering
+               \hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}\vspace{5mm}
+                \psfig{figure=#1,height=3.25in}
+                \caption{#3}
+                \label{#2}
+               \vspace{5mm}\hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}
+        \end{figure*}
+}
+
+% Large figure
+\newcommand{\lfigg}[3]{
+        \begin{figure*}[p]
+                \centering
+               \hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}\vspace{5mm}
+                \psfig{figure=#1,height=5in}
+                \caption{#3}
+                \label{#2}
+               \vspace{5mm}\hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}
+        \end{figure*}
+}
+
+% Variable size figure
+\newcommand{\vfigg}[4]{
+        \begin{figure*}[htb]
+                \centering
+               \hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}\vspace{5mm}
+                \psfig{figure=#1,#2}
+                \caption{#4}
+                \label{#3}
+               \vspace{5mm}\hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}
+        \end{figure*}
+}
+
+\newcommand{\vfig}[4]{
+        \begin{figure}[ltb]
+                \centering
+               \hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}\vspace{1mm}
+                \psfig{figure=#1,#2}
+                \caption{#4}
+                \label{#3}
+               \vspace{1mm}\hspace*{\fill}\rule{\linewidth}{.5mm}\hspace*{\fill}
+        \end{figure}
+}
+
+\newcommand{\vnlfig}[4]{
+        \begin{figure}[htb]
+                \centering
+               \hspace*{\fill}\rule{\linewidth}{0mm}\hspace*{\fill}\vspace{5mm}
+                \psfig{figure=#1,#2}
+                \caption{#4}
+                \label{#3}
+               \vspace{0mm}\hspace*{\fill}\rule{\linewidth}{0mm}\hspace*{\fill}
+        \end{figure}
+}
+
+\newcommand{\dblvfig}[6]{
+        \begin{figure}[htb]
+                \centering
+                \hspace*{\fill}\rule{\linewidth}{0mm}\hspace*{\fill}\vspace{0.5mm}
+                \psfig{figure=#1,#2}
+	        \hspace{1in}
+                \psfig{figure=#3,#4}
+                \caption{#6}
+                \label{#5}
+               \vspace{2mm}\hspace*{\fill}\rule{\linewidth}{0mm}\hspace*{\fill}
+        \end{figure}
+}
+\newc{\myspacing}{
+        \let\oldtextheight=\textheight
+        \let\oldtextwidth=\textwidth
+
+        \let\oldtopmargin=\topmargin
+        \let\oldheadheight=\headheight
+        \let\oldfootheight=\footheight
+        \let\oldheadsep=\headsep
+        \let\oldoddsidemargin=\oddsidemargin
+
+
+        \textheight 8.5in
+        \textwidth 6in
+
+        \topmargin 0in
+        \headheight 0in
+        \footheight 1.5in
+        \headsep 0in
+        \oddsidemargin 0in
+
+}
+
+\newc{\oldspacing}{
+        \let\textheight=\oldtextheight 
+        \let\textwidth=\oldtextwidth
+
+        \let\topmargin=\oldtopmargin 
+        \let\headheight=\oldheadheight 
+        \let\footheight=\oldfootheight
+        \let\headsep=\oldheadsep
+        \let\oddsidemargin=\oldoddsidemargin
+}
+% Local Variables: 
+% mode: latex
+% TeX-master: t
+% End: 

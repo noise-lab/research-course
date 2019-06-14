@@ -1,0 +1,191 @@
+# This file defines the lectures for the class.  The syllabus is
+# automatically generated from this file.
+
+# Date:  [Lecture type]
+#        blank:  normal lecture
+#        noclass [explanation text]
+#        exam    [exam name]
+# I:  Instructor   (overrides the global INSTRUCTOR)
+# T:  Title
+# S:  slides ref (looks in lectures/<name>.{ppt,pdf,ps,html}
+# V:  Video list (links to coursecast)
+# R:  Readings (copied verbatim)
+# N:  Notes (copied verbatim)
+# A:  Topic Area (generates a heading)
+# RB: BibTeX ref::URL
+
+CLASS: 'CS 7001: Introduction to Graduate Studies'
+CLASS_SHORT: CS7001
+SUMMARY: CS 7001
+YEAR:  2008
+TERM:  Fall
+INSTRUCTOR:  Nick Feamster / Alex Gray
+LOCATION:  Klaus 2456
+START_TIME: '3:05'
+END_TIME: '4:25'
+READINGBASE:  http://www.gtnoise.net/classes/cs7001/fall_2008/readings/
+SHOW_LECNUM: yes
+SHOW_INSTRUCTOR: no
+HIGHLIGHT_DUE: yes
+ALTERNATE: week
+HEADSPAN: 5
+
+LECTURES:
+
+- 8/18:
+        type: noclass
+        T: 'No Class'
+
+- 'The Ph.D.'
+
+- 8/20:
+        T: 'Course Overview'
+        S: course-overview
+
+- 8/25:
+        T: 'Why Ph.D.?'
+        S: phd-why
+
+- 8/27:
+        T: 'Industry vs. Academia'
+        N: <a href="psets/ma1.pdf">Mini-Assignment 1</a>:<br/>Thought Questions
+        S: research-jobs
+
+- 9/1:
+        type: noclass
+        T: 'Labor Day'
+
+- 9/3:
+        T: 'Recognizing and Critiquing Ideas'
+        S: reading-reviewing
+
+- 9/8:
+        T: 'Fellowships (Guest Lecture: <i>Karen Adams</i>)'
+
+- 'Great Ideas'
+
+- 9/10:
+        T: 'A Case Study in Great Ideas'
+        RL: Baran::baran.pdf Interview::baran-int.pdf
+        S: case-study
+
+- 9/15:
+        T: 'On Great Ideas #1: Scientific Revolutions'
+        N: '<a href="psets/a1.pdf">Assignment 1</a>:<br />Recognizing
+        Good Ideas'
+        RL: 'Kuhn::http://www.amazon.com/Structure-Scientific-Revolutions-Thomas-Kuhn/dp/0226458083/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1221481082&sr=1-1'
+        S: revolutions
+
+- 9/17:
+        T: 'On Great Ideas #2: Great Researchers'
+        RL: 'Hamming::http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf'
+        S: great-researchers
+
+- 9/22:
+        T: 'Generating Ideas #1: Research Patterns'
+        RL: 'Polya::http://www.amazon.com/How-Solve-Mathematical-Princeton-Science/dp/069111966X/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1221481262&sr=1-1'
+        S: research-patterns
+
+- 9/24:
+        T: 'Generating Ideas #2: Creativity'
+        RL: 'Adams::http://www.amazon.com/Conceptual-Blockbusting-Guide-Better-Ideas/dp/0738205370/ref=pd_bbs_sr_1?ie=UTF8&s=books&qid=1221481344&sr=1-1'
+        S: creativity
+
+
+- 9/29:
+        T: 'Generating Ideas #3: Cross-Disciplinary Thinking'
+        N: '<a href="psets/a2.pdf">Assignment 2</a>:<br />Creating an Idea'
+        RL: 'Johansson::http://www.themedicieffect.com/downloads/MediciEffect.pdf Burke::http://www.amazon.com/Connections-James-Burke/dp/0316116726'
+        S: cross-disciplinary
+
+- 10/1:
+        T: 'Communicating Ideas #1: Writing'
+        RL: 'Zobel::http://www.amazon.com/Writing-Computer-Science-Justin-Zobel/dp/1852338024 Strunk::http://www.bartleby.com/141/'
+        S: how-to-write
+
+- 10/6:
+        type: noclass
+        T: 'No Class'
+
+- 10/8:
+        T: 'Communicating Ideas #2: Speaking'
+        RL: 'Asher::http://www.amazon.com/Even-Geek-Can-Speak-Presentation/dp/156352628X'
+        N: '<a href="psets/ma2a.pdf">Mini-Assignment 2a</a>:<br /> Project Interim Report' 
+        S: how-to-give-a-talk
+
+- 10/13:
+        type: noclass
+        T: 'Recess'
+        N: 'Assignment 3:<br /> Critiquing Ideas<br />Assignment 2 Due'
+
+- 10/15:
+        T: 'Mock PC'
+
+- 'Grand Challenges'
+
+- 10/20:
+        T: 'Networking, Security, Systems, Theory<br/>Databases,
+        Software Engineering, Architecture<br />Graphics, HCI, Robotics, <br />Cognitive Science, LST Vision and Perception'
+        N: 'Project Interim Report Due'
+
+- 10/22:
+        T: 'HPC and Simulation, Artificial Intelligence, <br />Machine Learning and Numerical Methods' 
+
+
+- 'Grad School Survival'
+
+- 10/27:
+        T: 'Motivation and Time Management'
+        RL: 'Griessman::http://www.amazon.com/Time-Tactics-Very-Successful-People/dp/0070246440'
+
+- 10/29:
+        T: 'Fun in Atlanta'
+
+- 10/31:
+        type: noclass
+        N: 'Pseudo-Assignment:<br />Costume Contest'
+
+
+- 11/3:
+        T: 'Teaching and TAing'
+
+- 11/5:
+        T: 'People Management'
+
+- 11/10:
+        T: 'Student Panel: Survival'
+        N: <a href="psets/ma2.pdf">Mini-Assignment 2</a>:<br/>Time Log
+
+
+- 11/12:
+        T: 'Math and Programming Skills'
+
+- 11/17:
+        T: 'Data and Human Skills'
+
+- 'Broader Impacts'
+
+- 11/19:
+        T: 'Impact in Society and Industry'
+
+- 11/24:
+        T: 'Ethics and Diversity in CS'
+        N: <a href="psets/ma3.pdf">Mini-Assignment 3:</a><br/>Personal Web Page<br/><a href="psets/ma4.pdf">Mini-Assignment 4</a>:<br/>Elevator Pitch
+
+- 11/26:
+        type: noclass
+        T: 'Turkey Cooking'
+
+- 'Mini-Conference'
+
+- 12/1:
+        T: 'Mini-Conference'
+        N: 'Assignment 4: Talk Reviews'
+
+- 12/3:
+        T: 'Mini-Conference'
+        N: 'Pseudo-Assignment: Social'
+
+- 12/08:
+        type: noclass
+        N: 'Project Writeup Due'

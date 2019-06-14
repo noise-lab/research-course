@@ -1,0 +1,112 @@
+Sessions
+---------
+
+Klaus 1116W
+-----------
+Session #1: 1-3pm
+HCI (8)
+Robots (3)
+
+Session #2: 4-6pm 
+Networking (4)
+ML and Perception (5)
+Security (2)
+
+
+Klaus 1116E
+-----------
+Session #1: 1-3pm
+Architecture (2)
+Systems (6)
+SE (3)
+
+Session #2: 4-6pm
+Graphics (5)
+Theory (6)
+
+
+--------------------------------------------------
+
+
+
+
+HCI (8)
+-------
+Connect to Congress: Visual Analytics for Civic Oversight 	Peter Kinnaird 	Gregory Abowd
+Infrastructure Mediated Sensing using Home Powerlines 	Erich Stuntebeck 	Gregory Abowd
+Supporting Human Analysis of Behavior in Everyday Environments 	Mario Romero 	Gregory Abowd
+Using an Ecological Framework to Design Mobile Technologies for Pediatric Asthma Management 	Hee Young Jeong 	Rosa Arriaga and Gregory Abowd
+Technological Advice Sharing in Homes (or: “Why Do I Need a Help Manual When I Have You?”) 	Erika S. Poole 	Keith Edwards
+Mobile Technology for the Urban Homeless 	Christopher A. Le Dantec 	Keith Edwards
+Social Networks, Wikipedia, Video Games, and Online Animations (aka an overview of ELC Lab research) 	Sarita Yardi 	Amy Bruckman
+Visual Analytics for Investigative Analysis 	Carsten Görg 	John Stasko
+
+Networking (4)
+--------------
+Network Inference 	Partha Kanuparthy 	Constantine Dovrolis
+Answering What-If Deployment and Configuration Questions with WISE 	Mukarram bin Tariq 	Nick Feamster
+MyMANET - A Customizable Mobile Ad hoc Network 	Ashwin Paranjpe 	Santosh Vempala
+SNARE 	Shuang Hao 	 Nick Feamster
+
+ML and Perception (5)
+---------------------
+Fast Nearest Neighbor Search by Rank Approximation 	Parikshit Ram 	Alexander Gray
+Multi-Class Multi-Label Multi-Instance Classification (M3C) and Its Application in Named Entity Mining from Query/Clickthrough Logs 	Shuang Hong Yang 	Hongyuan Zha
+Augmenting Aerial Earth Maps with Dynamic Information 	Kihwan Kim 	Irfan Essa
+Recognizing Sign Language from Brain Signals 	Nishant Mehta 	Melody Moore Jackson
+
+
+Security (2)
+-----------
+Robust Signatures for Kernel Data Structures 	Brendan Dolan-Gavitt 	Jon Giffin & Wenke Lee
+Security Information From DNS Monitoring 	Manos Antonakakis 	Wenke Lee
+
+SE (3)
+-----
+Taint-based Dynamic Analysis 	Jim Clause 	Alex Orso
+Evaluating Cues for Resuming Interrupted Programming Tasks 	Chris Parnin 	Spencer Rugaber
+	Raul Santelices 	Mary Jean Harrold
+
+Archicture (2)
+--------------
+Neighborhood of Nodes Directory Scaling for Manycore Processors 	Jesse Beu 	Tom Conte
+GPU analytical model	Sunpyo Hong	Hyesoon Kim
+
+Systems (6)
+-----------
+Monitoring Continuous State Violation in Datacenters: Exploring the Time Dimension 	Shicong Meng 	Ling Liu
+Spatial Alarms: Challenges and Techniques	Bhuvan Bamba 	Ling Liu
+OpenShmem and OpenStruct: Data object optimization in global memory 	Peter Budny 	Karsten Schwan
+IP-TV and the Streaming Cloud 	Dave Lillethun 	Umakishore Ramachandran
+Speeding up sequential computations through n-version parallelism 	Romain Cledat 	Santosh Pande
+Performance Degradation due to Voltage and Frequency Scaling in Modern Processors 	Hrishikesh Amur 	Karsten Schwan
+
+Theory (6)
+---------
+Fast Distributed Random Walks	Atish Das Sarma	Richard J. Lipton
+Skyline Computation in Database System 	Danupon Nanongkai 	Richard J Lipton
+Encryption Schemes for Outsourced Databases 	Adam O'Neill 	Sasha Boldyreva
+Deterministic Algorithm for Lovasz Local Lemma	Karthekeyan Chandrasekaran	Santosh Vempala
+Uniform Sampling for Star Shaped Bodies 	Daniel Dadush 	Santosh Vempala 
+Phase Transition for the Mixing Time of the Glauber Dynamics for Coloring Regular Trees	Linji Yang	Eric Vigoda
+
+Graphics (5)
+------------
+B-morphs between b-compatible curves in the plane 	Brian Whited 	Jarek Rossignac
+SOT: Compact Representation for Tetrahedral Meshes 	Topraj Gurung 	Jarek Rossignac
+Animating Responsive Characters with Dynamic Constraints in the Near-Unactuated Coordinates 	Yuting Ye 	Karen Liu
+Optimization-Based Interactive Motion Synthesis 	Sumit Jain 	Karen Liu
+Fast Animation of Viscoelastic Materials 	Chris Wojtan 	Greg Turk
+
+Robots (3)
+------
+Effects of Social Exploration Mechanisms on Robot Learning 	Nick DePalma 	Andrea Thomaz
+Using a Compliant Robot for Manipulation in Indoor Human Environments 	Advait Jain 	Charlie Kemp
+PPS-Tags: Physical, Perceptual, and Semantic Tags for Autonomous Mobile Manipulation 	Hai Nguyen 	Charlie Kemp
+
+
+
+
+
+
+

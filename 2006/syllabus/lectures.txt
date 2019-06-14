@@ -1,0 +1,190 @@
+# This file defines the lectures for the class.  The syllabus is
+# automatically generated from this file.
+
+# Date:  [Lecture type]
+#        blank:  normal lecture
+#        noclass [explanation text]
+#        exam    [exam name]
+# I:  Instructor   (overrides the global INSTRUCTOR)
+# T:  Title
+# S:  slides ref (looks in lectures/<name>.{ppt,pdf,ps,html}
+# V:  Video list (links to coursecast)
+# R:  Readings (copied verbatim)
+# N:  Notes (copied verbatim)
+# A:  Topic Area (generates a heading)
+# RB: BibTeX ref::URL
+
+CLASS: 'CS 7001: Introduction to Graduate Studies'
+CLASS_SHORT: CS7001
+SUMMARY: CS 7001
+YEAR:  2006
+TERM:  Fall
+INSTRUCTOR:  Nick Feamster / Alex Gray
+LOCATION:  CCB 102
+START_TIME: '10:05'
+END_TIME: '10:55'
+READINGBASE:  http://www.cc.gatech.edu/~feamster/classes/CS7260-SP06/papers
+SHOW_LECNUM: yes
+SHOW_INSTRUCTOR: no
+HIGHLIGHT_DUE: yes
+ALTERNATE: week
+HEADSPAN: 5
+
+LECTURES:
+
+- 8/21:
+        T: Course Overview and Introduction
+        S: L1
+
+- 8/23:
+        T: From Dissertation to Startup (<i>David Dagon</i>)
+
+- 8/25:
+        T: 'Exercise: Identifying Good Ideas'
+        type: grp
+        N: <a href="psets/ps1/ps1.pdf">PS 1</a>
+
+- 8/28:
+        T: 'Good Ideas and Problems (<i>Nick Feamster and Alex Gray</i>)'
+        S: L3
+  
+- 8/30: 
+        T: 'How to Read a Research Paper (<i>Nick Feamster and Alex Gray</i>)'
+        S: L4
+
+- 9/1:
+        type: grp
+        T: 'Work on PS 1' 
+
+- 9/4:
+        type: noclass
+        T: 'Labor Day'
+
+- 9/6:
+        T: 'The Joy of Research (<i><a href="http://math.mit.edu/~vempala/">Santosh Vempala</a></i>)'
+        R: <a href="http://research.microsoft.com/users/lovasz/erdos.ps">Erdos</a> <a href="http://math.mit.edu/~vempala/papers/survey.pdf">Vempala</a>
+
+- 9/8:
+        type: grp
+        T: 'Work on PS 1' 
+
+- 9/11:
+        T: 'Importance of Historical Perspective/Wireless (<i>Mostafa Ammar</i>)'
+
+- 9/13:
+        T: 'Computational Foundations of Statistics/Machine Learning (<i>Alex Gray</i>)'
+
+- 9/14:
+        type: other
+        N: '<b>Slides to TAs by noon</b>'
+
+- 9/15:
+        T: 'Group Presentations (PS 1)'
+        N: PS 1 Due; PS 2 Out
+- 9/18:
+        T: 'CSS Research Overview (<i>Ellen Zegura</i>)'
+
+- 9/20:
+        T: 'Big Ideas in Information Visualization (<i>John Stasko</i>)'
+        N: <b>9:45 am start time!</b>
+
+- 9/22:
+        type: grp
+        N: Project title/professor due
+        T: 'Work on PS 2'
+
+- 9/25:
+        T: 'Reading and Reviewing Papers'
+
+- 9/27: 
+        T: 'What is IIC? (<i>Aaron Bobick</i>)'
+
+- 9/29:
+        type: grp
+        T: 'Work on PS2 in Groups'
+
+- 10/2:
+        N: PS 2 (Part 1) Due
+        T: 'Group Presentations #1 (PS2)'
+
+- 10/4:
+        T: 'Group Presentations #2 (PS2)'
+
+- 10/6:
+        T: 'Investigating the creative reasoning practices of scientists and engineers (<i>Nancy Nersessian</i>)'
+
+- 10/9:
+        T: 'Work on PS2 (Part 2) in Groups'
+
+- 10/11:
+        T: 'How to Read a Research Paper, Part 2 (<i>Spencer Rugaber</i>)'
+        R: <a href="http://www-static.cc.gatech.edu/~spencer/nsb/nsb.pdf">Brooks</a>
+
+- 10/16: 
+        type: noclass
+        T: School Holiday
+        N: PS 2 (Part 2) Due
+
+- 10/18:
+        T: 'PS 2 (Part 2) Presentations'
+        N: Interim Project Report (or <br />Mini-Project Report) Due
+
+- 10/23:
+        T: 'Robotics (<i>Henrik Christensen</i>)'
+
+- 10/25:
+        T: 'PS 2 Presentations / PS 3 Overview'
+        N: <a href="psets/ps3/ps3.pdf">PS 3</a> Out
+
+- 10/30:
+        T: 'CSE Research Overview (<i>Richard Fujimoto</i>)'
+
+- 11/1:
+        T: 'Life Management: Lecture and Panel (<i>Alex Gray</i>)'
+        R: '<a href="http://www.paulgraham.com/hamming.html">Hamming</a>'
+
+- 11/6:
+        T: 'Research Problems (<i>Dick Lipton</i>)'
+        N: PS 3 Due
+
+- 11/10:
+        T: 'Attend <a href="http://www.arc.gatech.edu/">ARC Seminar</a>'
+
+- 11/13:
+        T: 'Fellowships (<i>Amanda Gable</i>)'
+        N: <a href="psets/ps4/ps4.pdf">PS 4</a> Out
+
+- 11/15:
+        T: Industrial Lab vs. Academia (<i><a href="http://www.cs.princeton.edu/~jrex/">Jennifer Rexford</a></i>)
+
+- 11/20:
+        T: 'Hot Topics in Computer Architecture (<i>Gabe Loh</i>)'
+
+- 11/22:
+        type: noclass
+        T: 'Eat Turkey'
+        N: PS 4 Due
+
+- 11/25:
+        type: grp
+        N: <a href="psets/ps5/ps5.pdf">PS 5</a> out
+
+- 11/27:
+        T: 'Time Management (<i>Nick Feamster</i>)'
+
+- 11/29:
+        T: 'Student Panel'
+
+- 12/1:
+        T: 'Mini-Conference Plenary Session'
+        
+- 12/4:
+        T: 'Talk Advice (<i>Zach Pousman</i>)' 
+        N: 'PS 5 Due'
+
+- 12/6:
+        T: 'Mini Conference'
+
+- 12/8:
+        T: 'Mini Conference'
+        N: 'Project Writeup Due'

@@ -1,0 +1,150 @@
+Session 1A: Networking, Security, and Machine Learning
+Klaus 1116W, 1:00 - 3:00pm
+-------------------------------------------------------
+Network Inference
+Partha Kanuparthy (advisor: Constantine Dovrolis)
+
+Answering What-If Deployment and Configuration Questions with WISE
+Mukarram bin Tariq (advisor: Nick Feamster)
+
+MyMANET: A Customizable Mobile Ad hoc Network
+Ashwin Paranjpe (advisor: Santosh Vempala)
+
+SNARE: Spatio-Temporal Network-level Automated Reputation Engine
+Shuang Hao (advisor: Nick Feamster)
+
+Robust Signatures for Kernel Data Structures
+Brendan Dolan-Gavitt (advisor: Jon Giffin & Wenke Lee)
+
+Security Information From DNS Monitoring
+Manos Antonakakis (advisor: Wenke Lee)
+
+Fast Nearest Neighbor Search by Rank Approximation
+Parikshit Ram (advisor: Alexander Gray)
+
+Multi-Class Multi-Label Multi-Instance Classification (M3C) and Its Application in Named Entity Mining from Query/Clickthrough Logs 
+Shuang Hong Yang (advisor: Hongyuan Zha)
+
+Augmenting Aerial Earth Maps with Dynamic Information
+Kihwan Kim (advisor: Irfan Essa)
+
+Recognizing Sign Language from Brain Signals
+Nishant Mehta (advisor: Melody Moore Jackson)
+
+Session 1B: Software Eng., Systems, and Architecture
+Klaus 1116E, 1:00 - 3:00pm
+-----------------------------------------------------
+IP-TV and the Streaming Cloud
+Dave Lillethun (advisor: Umakishore Ramachandran)
+
+Monitoring Continuous State Violation in Datacenters: Exploring the Time Dimension 
+Shicong Meng (advisor: Ling Liu)
+
+Spatial Alarms: Challenges and Techniques
+Bhuvan Bamba (advisor: Ling Liu)
+
+OpenShmem and OpenStruct: Data object optimization in global memory
+Peter Budny 
+(advisor: Karsten Schwan)
+
+Speeding up sequential computations through n-version parallelism
+Romain Cledat (advisor: Santosh Pande)
+
+
+
+Performance Degradation due to Voltage and Frequency Scaling in Modern Processors 
+Hrishikesh Amur	
+(advisor: Karsten Schwan)
+
+Taint-based Dynamic Analysis
+Jim Clause (advisor: Alex Orso)
+
+Evaluating Cues for Resuming Interrupted Programming Tasks
+Chris Parnin (advisor: Spencer Rugaber)
+
+Analyzing the Effects of Program Changes with Dependence Analysis and Symbolic Execution 
+Raul Santelices
+(advisor: Mary Jean Harrold)
+
+Neighborhood of Nodes Directory Scaling for Manycore Processors
+Jesse Beu (advisor: Tom Conte)
+
+GPU analytical model
+Sunpyo Hong (advisor: Hyesoon Kim)
+
+
+Session 2A: HCI & Robotics
+Klaus 1116W, 4:00 - 6:00pm
+--------------------------
+Connect to Congress: Visual Analytics for Civic Oversight
+Peter Kinnaird (advisor: Gregory Abowd)
+
+Infrastructure Mediated Sensing using Home Powerlines
+Erich Stuntebeck (advisor: Gregory Abowd)
+
+Supporting Human Analysis of Behavior in Everyday Environments
+Mario Romero (advisor: Gregory Abowd)
+
+Using an Ecological Framework to Design Mobile Technologies for Pediatric Asthma Management 
+Hee Young Jeong	
+(advisor: Rosa Arriaga and Gregory Abowd)
+
+Technological Advice Sharing in Homes (or: “Why Do I Need a Help Manual When I Have You?”)
+Erika S. Poole (advisor: Keith Edwards)
+
+Mobile Technology for the Urban Homeless
+Christopher A. Le Dantec (advisor: Keith Edwards)
+
+Social Networks, Wikipedia, Video Games, and Online Animations
+Sarita Yardi (advisor: Amy Bruckman)
+
+Visual Analytics for Investigative Analysis
+Carsten Görg (advisor: John Stasko)
+
+Effects of Social Exploration Mechanisms on Robot Learning
+Nick DePalma (advisor: Andrea Thomaz)
+
+Using a Compliant Robot for Manipulation in Indoor Human Environments
+Advait Jain (advisor: Charlie Kemp)
+
+PPS-Tags: Physical, Perceptual, and Semantic Tags for Autonomous Mobile
+Manipulation 
+Hai Nguyen (advisor: Charlie Kemp)
+
+
+Session 2B: Graphics & Theory
+Klaus 1116E, 4:00-6:00pm
+-----------------------------
+Fast Distributed Random Walks
+Atish Das Sarma (advisor: Richard J. Lipton)
+
+Skyline Computation in Database System
+Danupon Nanongkai (advisor: Richard J Lipton)
+
+Encryption Schemes for Outsourced Databases
+Adam O'Neill (advisor: Sasha Boldyreva)
+
+Deterministic Algorithm for Lovasz Local Lemma
+Karthekeyan Chandrasekaran (advisor: Santosh Vempala)
+
+Uniform Sampling for Star Shaped Bodies
+Daniel Dadush (advisor: Santosh Vempala)
+
+Phase Transition for the Mixing Time of the Glauber Dynamics for Coloring Regular Trees
+Linji Yang (advisor: Eric Vigoda)
+
+B-morphs between b-compatible curves in the plane
+Brian Whited (advisor: Jarek Rossignac)
+
+SOT: Compact Representation for Tetrahedral Meshes
+Topraj Gurung (advisor: Jarek Rossignac)
+
+Animating Responsive Characters with Dynamic Constraints in the Near-Unactuated Coordinates
+Yuting Ye (advisor: Karen Liu)
+
+Optimization-Based Interactive Motion Synthesis
+Sumit Jain (advisor: Karen Liu)
+
+Fast Animation of Viscoelastic Materials
+Chris Wojtan (advisor: Greg Turk)
+

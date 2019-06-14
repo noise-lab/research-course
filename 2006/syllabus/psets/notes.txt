@@ -1,0 +1,18 @@
+assess each other's projects and assign a score of 1-5 ---                      
+1:poor, 2:below average, 3: average, 4: above average, 5:excellent              
+                                                                                
+- novelty: has the work been placed in context with previous work?              
+- potential impact/technical merit                                              
+- clarity/presentation, etc.                                                    
+                                                                                
+also rate expertise level in the *general* area (example of a general area is   
+"networking").                                                                  
+                                                                                
+detailed comments ...                                                           
+                                                                                
+attach reference for how write a review.                                        
+                                                                                
+as in a conference, you won't be expert in all areas.  you should just be       
+aware of your expertise and do the review to the best of your ability.  a good  
+reviewer will often go beyond reading the actual paper itself and get familiar  
+with the topic and the general area.                                            

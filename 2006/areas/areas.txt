@@ -1,0 +1,22 @@
+# Computing Science & Systems (CSS) division                                    
+Alg, Combinatorics & Optimization: Robin Thomas <thomas@math.gatech.edu>        
+Architecture: Milos Prvulovic <milos@cc.gatech.edu>
+Databases:                                                                      
+Networking: Nick Feamster <feamster@cc.gatech.edu>
+Programming Languages and Compilers: Olin Shivers <shivers@cc.gatech.edu>
+Security and Cryptography: Alexandra Boldyreva <aboldyre@cc.gatech.edu>
+Software Engineering: Alex Orso <orso@cc.gatech.edu>
+Systems: Ling Liu <lingliu@cc.gatech.edu>
+Theory: Eric Vigoda <vigoda@cc.gatech.edu>
+                                                                                
+# Interactive & Intelligent Computing (IIC) division                            
+Cognitive Science: Ashok Goel <goel@cc.gatech.edu>
+Human-Computer Interaction: John Stasko <stasko@cc.gatech.edu>
+AI & Machine Learning: Charles Isbell <isbell@cc.gatech.edu>
+Graphics and Visualization: Greg Turk <turk@cc.gatech.edu>
+Learning Science and Technology: Mark Guzdial <guzdial@cc.gatech.edu>
+Robotics: Tucker Balch <tucker@cc.gatech.edu>
+Vision and Perception: Frank Dellaert <dellaert@cc.gatech.edu>
+
+# Computational Science and Engineering
+CSE: David Bader <bader@cc.gatech.edu>

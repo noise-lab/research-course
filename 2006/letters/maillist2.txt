@@ -1,0 +1,7 @@
+Mostafa Ammar::<ammar@cc.gatech.edu>::wireless and DTNs
+John Stasko::<stasko@cc.gatech.edu>::visualization research
+Richard Fujimoto::<fujimoto@cc.gatech.edu>::CSE
+Ellen Zegura::<ewz@cc.gatech.edu>::CSS
+Aaron Bobick::<bobick@cc.gatech.edu>::IIC
+Eric Vigoda::<vigoda@cc.gatech.edu>::your research from the Fulkerson award
+Mustaque Ahamad::<mustaq@cc.gatech.edu>::GTISC and hot topics in security

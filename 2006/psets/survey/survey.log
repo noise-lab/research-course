@@ -1,0 +1,199 @@
+This is pdfeTeX, Version 3.141592-1.21a-2.2 (Web2C 7.5.4) (format=latex 2006.6.10)  31 OCT 2006 23:48
+entering extended mode
+**survey.tex
+(./survey.tex
+LaTeX2e <2003/12/01>
+Babel <v3.8d> and hyphenation patterns for american, french, german, ngerman, b
+ahasa, basque, bulgarian, catalan, croatian, czech, danish, dutch, esperanto, e
+stonian, finnish, greek, icelandic, irish, italian, latin, magyar, norsk, polis
+h, portuges, romanian, russian, serbian, slovak, slovene, spanish, swedish, tur
+kish, ukrainian, nohyphenation, loaded.
+(/usr/share/texmf-tetex/tex/latex/base/article.cls
+Document Class: article 2004/02/16 v1.4f Standard LaTeX document class
+(/usr/share/texmf-tetex/tex/latex/base/size11.clo
+File: size11.clo 2004/02/16 v1.4f Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/share/texmf-tetex/tex/generic/epsf/epsf.tex
+This is `epsf.tex' v2.7k <10 July 1997>
+\epsffilein=\read1
+\epsfframemargin=\dimen103
+\epsfframethickness=\dimen104
+\epsfrsize=\dimen105
+\epsftmp=\dimen106
+\epsftsize=\dimen107
+\epsfxsize=\dimen108
+\epsfysize=\dimen109
+\pspoints=\dimen110
+\epsfnoopenhelp=\toks14
+) (/usr/share/texmf-tetex/tex/latex/graphics/epsfig.sty
+Package: epsfig 1999/02/16 v1.7a (e)psfig emulation (SPQR)
+
+(/usr/share/texmf-tetex/tex/latex/graphics/graphicx.sty
+Package: graphicx 1999/02/16 v1.0f Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-tetex/tex/latex/graphics/keyval.sty
+Package: keyval 1999/03/16 v1.13 key=value parser (DPC)
+\KV@toks@=\toks15
+)
+(/usr/share/texmf-tetex/tex/latex/graphics/graphics.sty
+Package: graphics 2001/07/07 v1.0n Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/share/texmf-tetex/tex/latex/graphics/trig.sty
+Package: trig 1999/03/16 v1.09 sin cos tan (DPC)
+)
+(/usr/share/texmf-tetex/tex/latex/graphics/graphics.cfg
+File: graphics.cfg 2005/02/03 v1.3 graphics configuration of teTeX/TeXLive
+)
+Package graphics Info: Driver file: dvips.def on input line 80.
+
+(/usr/share/texmf-tetex/tex/latex/graphics/dvips.def
+File: dvips.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+\Gin@req@height=\dimen111
+\Gin@req@width=\dimen112
+)
+\epsfxsize=\dimen113
+\epsfysize=\dimen114
+)
+(/usr/share/texmf-tetex/tex/latex/url/url.sty
+\Urlmuskip=\muskip10
+Package: url 2004/03/15  ver 3.1  Verb mode for urls, etc.
+) (./hw.sty
+(/usr/share/texmf-tetex/tex/latex/psfrag/psfrag.sty
+Package: psfrag 1998/04/11 v3.04 PSfrag (MCG)
+\pfg@pcount=\count87
+\pfg@scount=\count88
+\pfg@temp=\write3
+)
+(/usr/share/texmf-tetex/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2003/11/30 v6.74m Hypertext links for LaTeX
+\@linkdim=\dimen115
+\Hy@linkcounter=\count89
+\Hy@pagecounter=\count90
+
+(/usr/share/texmf-tetex/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2003/11/30 v6.74m Hyperref: PDFDocEncoding definition (HO)
+)
+(/usr/share/texmf-tetex/tex/latex/hyperref/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive and teTeX
+)
+Package hyperref Info: Option `breaklinks' set `true' on input line 1830.
+Package hyperref Info: Option `colorlinks' set `true' on input line 1830.
+Package hyperref Info: Option `pdfpagelabels' set `true' on input line 1830.
+Package hyperref Info: Hyper figures OFF on input line 1880.
+Package hyperref Info: Link nesting OFF on input line 1885.
+Package hyperref Info: Hyper index ON on input line 1888.
+Package hyperref Info: Plain pages ON on input line 1893.
+Package hyperref Info: Backreferencing OFF on input line 1900.
+
+Implicit mode ON; LaTeX internals redefined
+Package hyperref Info: Bookmarks ON on input line 2004.
+LaTeX Info: Redefining \url on input line 2143.
+\Fld@menulength=\count91
+\Field@Width=\dimen116
+\Fld@charsize=\dimen117
+\Choice@toks=\toks16
+\Field@toks=\toks17
+Package hyperref Info: Hyper figures OFF on input line 2618.
+Package hyperref Info: Link nesting OFF on input line 2623.
+Package hyperref Info: Hyper index ON on input line 2626.
+Package hyperref Info: backreferencing OFF on input line 2633.
+Package hyperref Info: Link coloring ON on input line 2636.
+\Hy@abspage=\count92
+\c@Item=\count93
+\c@Hfootnote=\count94
+)
+*hyperref using driver hdvips*
+(/usr/share/texmf-tetex/tex/latex/hyperref/hdvips.def
+File: hdvips.def 2003/11/30 v6.74m Hyperref driver for dvips
+
+(/usr/share/texmf-tetex/tex/latex/hyperref/pdfmark.def
+File: pdfmark.def 2003/11/30 v6.74m Hyperref definitions for pdfmark specials
+\pdf@docset=\toks18
+\pdf@box=\box26
+\pdf@toks=\toks19
+\pdf@defaulttoks=\toks20
+\Fld@listcount=\count95
+\@outlinefile=\write4
+))
+\hlessmm=\skip43
+\hlessmmmm=\skip44
+) (./macros.tex)
+(./survey.aux)
+\openout1 = `survey.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 9.
+LaTeX Font Info:    ... okay on input line 9.
+ (/usr/share/texmf-tetex/tex/latex/graphics/color.sty
+Package: color 1999/02/16 v1.0i Standard LaTeX Color (DPC)
+
+(/usr/share/texmf-tetex/tex/latex/graphics/color.cfg
+File: color.cfg 2005/02/03 v1.3 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: dvips.def on input line 125.
+
+(/usr/share/texmf-tetex/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 1999/02/16 v3.0i Driver-dependant file (DPC,SPQR)
+))
+Package hyperref Info: Link coloring ON on input line 9.
+
+(/usr/share/texmf-tetex/tex/latex/hyperref/nameref.sty
+Package: nameref 2003/12/03 v2.21 Cross-referencing by name of section
+\c@section@level=\count96
+)
+LaTeX Info: Redefining \ref on input line 9.
+LaTeX Info: Redefining \pageref on input line 9.
+ (./survey.out)
+(./survey.out)
+\openout4 = `survey.out'.
+
+\c@listcount=\count97
+\c@sublistcount=\count98
+
+Overfull \hbox (14.09998pt too wide) in paragraph at lines 17--17
+ [] 
+ []
+
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 24.
+(/usr/share/texmf-tetex/tex/latex/base/omscmr.fd
+File: omscmr.fd 1999/05/25 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 24.
+ [1
+
+] (./survey.aux) ) 
+Here is how much of TeX's memory you used:
+ 2646 strings out of 94501
+ 35951 string characters out of 1175811
+ 89510 words of memory out of 1000000
+ 5825 multiletter control sequences out of 10000+50000
+ 5149 words of font info for 19 fonts, out of 500000 for 2000
+ 580 hyphenation exceptions out of 8191
+ 32i,6n,21p,280b,340s stack positions out of 1500i,500n,5000p,200000b,5000s
+
+Output written on survey.dvi (1 page, 3880 bytes).

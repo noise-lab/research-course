@@ -1,0 +1,101 @@
+\section{Introduction}
+
+This paper describes a course we developed and taught for the first
+time in Fall 2006, CS 7001, as a revamping of the required
+introductory course for new students in the Computer Science Ph.D.
+program at Georgia Tech.  We are teaching in Fall 2007 (in progress)
+an improved version of the course.
+
+Previously, the course was mainly a semester-long seminar series
+intended to present the research of the large Georgia Tech faculty for
+the purposes of advisor selection, with a requirement for short
+exploratory ``mini-projects'' for testing the waters with a few faculty
+members.  We expanded its scope far beyond advisor selection, to
+address a number of observations about current graduate education in
+Computer Science:
+\begin{itemize}
+
+\item {\bf The general skills of independent research are not taught
+programmatically.}  Though diverse topics and research styles exist
+within Computer Science, there are universal skills of research and
+independent work which could in principle be taught, but are currently
+learned in {\it ad hoc}, ill-defined and haphazard fashion, if at all.
+In other words, to our knowledge, there is {\it no existing
+pedagogical practice for teaching independent research} which is widely
+used.
+We believe that some of the consequences of the current culture
+leaving Ph.D. students to figure out these ``meta'' aspects of
+independent research on their own include unnecessary and avoidable
+contributions to:
+  \begin{itemize}
+  \item High attrition, or drop-out rates, in Ph.D. programs.
+  \item Long graduation times in Ph.D. programs.
+  \item Slow ramp-up time toward productivity in research.
+  \item Poor job preparation and marketability.
+  \item A tendency to follow advisors blindly rather than blaze new directions.
+  \end{itemize}
+
+\item {\bf Computer Science research has an opportunity to change all
+other disciplines, yet this is not taught.}  Much current CS
+research is of an incremental ``stovepipe'' or inward-looking
+nature, even though Computer Science has a unique ability to
+fundamentally transform virtually every other discipline.  Though
+acknowledged often, we do not teach Ph.D. students in CS to actively
+seek out and forge the necessary connections to other disciplines.
+Unfortunately, to our knowledge, there is {\it no existing
+pedagogical practice for teaching cross-disciplinary research} which is
+widely used.  We believe that this results in unnecessary contributions to:
+  \begin{itemize}
+  \item Researchers in other disciplines effectively developing their own
+        computer science solutions, with less expertise.
+  \item Untapped potential, in terms of impact and quality of research.
+  \end{itemize}
+
+\item {\bf Computer Science has an opportunity for broader appeal,
+  inclusion, and societal impact.}  Enrollment in Computer Science
+  programs at all levels is affected by perceived societal impact, as
+  evidenced by the effect of highly-visible but limited glimpses into
+  the impact of CS such as the dot-com economic boom and bust and the
+  effect of Google on daily life, as well as demographic perceptions
+  regarding computer scientists.  The reality, that these perceptions
+  are limited, needs to be transmitted by the leaders of the field---CS
+  Ph.D. students are not taught about the need to change these
+  perceptions, inspire, and communicate their impact.  We believe that
+  this deficiency has resulted in consequences regarding:
+  \begin{itemize}
+  \item Dwindling enrollments in CS Ph.D. programs.
+  \item The perception that CS is ``dead'' even though demand is high.
+  \item Low enrollments by women and under-represented minorities.
+  \end{itemize}
+\end{itemize}
+
+To correct many of these problems, we have developed a first-of-its-kind
+``introduction to graduate research'' course; this course is now in its
+second year.  The primary goal of the course is to immerse students in
+an environment where they can {\em immediately} become engaged in
+high-impact research; a related secondary goal is to teach students the
+necessary skills that enable them to quickly ``ramp up'' their research
+careers and to set them on a trajectory for fruitful research careers,
+as well as marketability.  We have designed a compendium comprising 8
+assignments, a research project, a mini-project, and a series of 33
+lectures that is organized into modules that give students the
+ambition---and the capability---to excel in a graduate research program.
+This paper summarizes the high-level goals of the course, how we achieve
+these goals with 5 course modules, and our experiences and lessons
+teaching the course over the past two years.  Although it might seem
+that the course itself contains nothing that is not ``obvious in
+hindsight'', our preliminary feedback and experiences with students in
+this course suggest that the benefits of having such an introductory
+course are significant.
+
+
+
+The rest of the paper is organized as follows.
+Section~\ref{sec:components} describes the components of the course we
+have designed in terms of the high-level goals we aim to teach students,
+including a high-level overview of the course syllabus.
+Section~\ref{sec:progress} describes the progress we have made in
+teaching the course to incoming graduate students and discusses various
+challenges we encoutered, as well as how we addressed them.
+Section~\ref{sec:related} describes related work, and
+Section~\ref{sec:conclusion} concludes.

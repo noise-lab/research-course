@@ -1,0 +1,105 @@
+\documentclass[11pt]{article}
+
+\usepackage{epsf}
+\usepackage{epsfig}
+\usepackage{url}
+\usepackage{../templates/hw}
+\input{../templates/macros.tex}
+
+\begin{document}
+
+
+\newcounter{listcount}
+\newcounter{sublistcount}
+
+
+\handout{PR1}{September 10, 2007}{Instructor: Profs. Feamster/Gray}
+{College of Computing, Georgia Tech}{Main Project Assignment}
+
+{\em This assignment has multiple due dates, outlined at the end of this
+  document.}
+
+\section{Summary, Purpose, and Parameters}
+
+The purpose of this assignment is to give you a first experience in
+performing an in-depth research project.  Upon completing this project,
+you will have experience in performing all of the elements of a
+research project, including:
+\begin{itemize}
+\itemsep=-1pt
+\item managing student-advisor interactions
+\item generating research ideas
+\item seeing a project through from start to finish
+\item giving a research presentation
+\item paper writing
+\end{itemize}
+\noindent
+The intent of the main project requirements (which we outline below) is
+to {\em complement} your existing research, which you may already be
+working on with a GRA advisor as part of an 8903.  In fact, we recommend
+that you work with your GRA advisor on your main project: for one, it
+saves time because the research itself will be performed outside of this
+class.  However, don't feel as though this is a hard constraint if it is
+inconvenient for you: you are welcome to work with any faculty member
+who is willing to advise you on research for the term.
+
+The rest of this document summarizes the milestones for the project and
+their due dates.
+
+%* Who can you work with?
+%- We recommend your GRA advisor (saves time, advisor paying for you)
+%* When is it due?
+%- See calendar (presentation + paper deadlines are there)
+
+%% * How long does the writeup need to be?
+%% - As long as it needs to be.  6-10 pages, using the format of your
+%%    main conference.  Think of this as a mini-conference paper.
+%% - Paper must have proper formatting.
+% * The main project can correspond with an 8903.
+
+
+\section{Milestones}
+
+The {\bf initial report} should indicate (1)~the title of the project and
+(2)~the name of the faculty member with whom you are working.
+
+The {\bf interim report} should include:
+\begin{enumerate}
+\item A one-paragraph {\em problem statement}: why is the problem
+  interesting, important, and challenging?
+\item A {\em summary} of what you have accomplished so far, what remains to be
+  done on the project, any obstacles you foresee in accomplishing the
+  remaining tasks, etc.
+\item You should include a {\em draft of the related work section} of
+  your paper.  This literature survey should be one full page and have
+  at least fifteen references.
+\end{enumerate}
+
+The {\bf presentation slides} should correspond to the 15-minute talk
+you will present at the mini-conference at the end of the term.  Your
+talk should have all of the components of a good talk, which we will
+cover in class on October 15.
+
+The {\bf final project writeup} should be a 6-10 page writeup that
+summarizes the work you have completed for your main project.  The
+writeup should be formatted in the accepted conference format for your
+main conference.  Think of your writeup as a ``mini-conference paper''
+that might eventually form the basis of an eventual conference paper
+submission.   This writeup should have all of the components of an
+actual conference paper, which we will cover in class on October 12.
+
+\section{Important Dates}
+
+All milestones are due by 11:59p.m. by email to the TAs.  No exceptions!
+
+\begin{center}
+\begin{tabular}{lp{3.5in}}
+{\bf Date} & {\bf Milestones} \\ \hline
+September 21 & Initial report \\
+October 19 & Interim report \\
+November 19 & Presentations slides due to TAs \\
+December 7 & Final report 
+\end{tabular}
+\end{center}
+
+\end{document}

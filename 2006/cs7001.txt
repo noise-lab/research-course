@@ -1,0 +1,102 @@
+PLC
+Cledat
+L. Liu
+
+Theory/ACO
+Wadia
+Karande
+Kintali
+
+Security
+Carbone
+V. Kumar
+Mehta
+J. Zhang
+Mashima
+Erete
+Benoit
+Srivastava
+Demirci
+V. Arvind B.
+
+Networking
+C. Zhao
+J. Bian
+M. Antonakakis
+M. Motiwala
+T. Wang
+A. Mansy
+
+Machine Learning
+J. Kim
+V. Kanade
+N. Mehta
+M. Zhang
+N. Syed
+
+LST
+L. Ni
+H. Kim
+S. Yardi
+
+HCI
+Y. Kang
+J. Sung
+K. Luther
+J. Wilson
+Y. Xu
+Le Dantec
+Medynskiy
+Yarosh
+O. Nradi
+Z. Liu
+Z. Hua
+J. Chen
+
+
+SE
+W. Li
+H. Hsu
+C. Parnin
+Y. Yu
+H. Shah
+
+Robotics
+Trevor
+Rogers
+H. Nguyen
+
+Architecture
+Doudalis
+
+AI
+Sugandh
+C. Strong
+M. Kunda
+S. Adams
+
+CogSci
+MacDermed
+Strickland
+Fennimore
+Barba
+
+Systems
+D. Mohapatra
+Q. Lin
+M. Lee
+G. Zhang
+Pesti
+V. Gupta
+
+Vision/Graphics
+D. Hou
+K. Camann
+Alvarez
+M. Sun
+
+HPC 
+E. Liu
+
+Databases
+T. Garcia
