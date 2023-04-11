@@ -30,7 +30,7 @@ pursue for your Ph.D. The material should:
 
 **Exercises** As part of the course we created, we developed several exercises
 to complete to help better develop your research toolbox:
-   - Recognizing good ideas
+   - [Recognizing good ideas](exercises/recognizing.md)
    - Generating research ideas
    - Applying research ideas across disciplines
    - Critiquing and evaluating research ideas
