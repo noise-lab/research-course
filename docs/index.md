@@ -30,6 +30,7 @@ pursue for your Ph.D. The material should:
 
 **Exercises** As part of the course we created, we developed several exercises
 to complete to help better develop your research toolbox:
+   - [Why a Ph.D.?](exercises/why-phd.md)
    - [Recognizing good ideas](exercises/recognizing.md)
    - [Creating research ideas](exercises/creating.md)
    - [Applying research ideas across disciplines](exercises/applying.md)
