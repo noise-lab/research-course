@@ -1,32 +1,42 @@
 ## How to Do Great Research
 
-We (Professors [Nick
-Feamster](http://people.cs.uchicago.edu/~feamster/ "Nick Feamster") and [Alexander
-Gray](http://www.cc.gatech.edu/~agray/ "Alex Gray") created this site as a resource for advice on research
-and creativity methods and techniques for Ph.D. students. We originally
-created the material as part of a course offering at Georgia Tech (read
-on for the history).  The intended audience for this site is Ph.D.
-students in computer science programs, but many of the concepts that we
-present on this site may also apply to other disciplines.
+We (Professors [Nick Feamster](http://people.cs.uchicago.edu/~feamster/ "Nick
+Feamster") and [Alexander Gray](http://www.cc.gatech.edu/~agray/ "Alex Gray"))
+created a course as a resource for advice on research and creativity methods
+and techniques for Ph.D. students. We originally created the material as part
+of a course offering at Georgia Tech (read on for the history).  The intended
+audience for this site is Ph.D.  students in computer science programs, but
+many of the concepts that we present on this site may also apply to other
+disciplines.
 
-The material we have provided will prepare you to perform great research
-in computer science, regardless of the area you ultimately choose to
+**Skills** The material we have provided will prepare you to perform great
+research in computer science, regardless of the area you ultimately choose to
 pursue for your Ph.D. The material should:
 
--   Teach you many skills that you will keep in your \"research
-    toolbox\" for the rest of your career:
-    -   time management
-    -   productivity and (selective) procrastination
-    -   how to read a research paper
-    -   how to review a research paper
-    -   how to write a research paper (technical writing)
-    -   how to generate ideas, creativity, sources of problems
-    -   information management (research notebooks, etc.)
-    -   how to give a good talk
-    -   how to write a proposal
-    -   how to be a good TA
--   Find some inspiration regarding open problems and big ideas
--   Offer general tips for life in graduate school and beyond
+- Teach you many skills that you will keep in your \"research
+  toolbox\" for the rest of your career:
+    - time management
+    - productivity and (selective) procrastination
+    - how to read a research paper
+    - how to review a research paper
+    - how to write a research paper (technical writing)
+    - how to generate ideas, creativity, sources of problems
+    - information management (research notebooks, etc.)
+    - how to give a good talk
+    - how to write a proposal
+    - how to be a good TA
+- Find some inspiration regarding open problems and big ideas
+- Offer general tips for life in graduate school and beyond
+
+**Exercises** As part of the course we created, we developed several exercises
+to complete to help better develop your research toolbox:
+   - Recognizing good ideas
+   - Generating research ideas
+   - Applying research ideas across disciplines
+   - Critiquing and evaluating research ideas
+   - Managing time
+   - Creating a research web page
+   - Developing an elevator pitch
 
 **History and Background.** The material that we have provided on this
 site is based on a class that was designed by Professors Nick Feamster
