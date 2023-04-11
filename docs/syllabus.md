@@ -26,4 +26,5 @@ Slides are [here](https://github.com/noise-lab/research-course/tree/master/docs/
 
 ## Reading
 
-Readings are on the [research blog](https://medium.com/great-research).
+* [Research blog](https://medium.com/great-research).
+* [Other readings](reading.md)
