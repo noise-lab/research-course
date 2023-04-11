@@ -22,7 +22,7 @@
 
 ## Slides
 
-Slides are [here](https://github.com/noise-lab/research-course/docs/slides/).
+Slides are [here](https://github.com/noise-lab/research-course/tree/master/docs/slides).
 
 ## Reading
 
