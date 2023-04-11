@@ -1,3 +1,5 @@
+## Readings 
+
 This page is a work in progress and currently includes readings that we
 have used in past offerings of the course.  We currently have links to
 useful books, but we will continue to add links to websites, blogs, and
