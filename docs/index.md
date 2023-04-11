@@ -61,9 +61,9 @@ to complete to help better develop your research toolbox:
 
 The course also has two projects:
 
-   - Mini-Project: This project allows a student to meet and experiment
+   - [Mini-Project](exercises/mini-project.md): This project allows a student to meet and experiment
      working with different faculty members in the department.
-   - Main Project: This project allows a student to work on a research
+   - [Main Project](exercises/main-project.md): This project allows a student to work on a research
      problem with a faculty member in the department with the goal of
      developing a path towards a publishable research paper..
 
