@@ -9,7 +9,9 @@ audience for this site is Ph.D.  students in computer science programs, but
 many of the concepts that we present on this site may also apply to other
 disciplines.
 
-**Skills** The material we have provided will prepare you to perform great
+### Skills
+
+The material we have provided will prepare you to perform great
 research in computer science, regardless of the area you ultimately choose to
 pursue for your Ph.D. The material should:
 
@@ -28,7 +30,9 @@ pursue for your Ph.D. The material should:
 - Find some inspiration regarding open problems and big ideas
 - Offer general tips for life in graduate school and beyond
 
-**Exercises** As part of the course we created, we developed several exercises
+### Exercises
+
+As part of the course we created, we developed several exercises
 to complete to help better develop your research toolbox:
    - [Why a Ph.D.?](exercises/why-phd.md)
    - [Recognizing good ideas](exercises/recognizing.md)
