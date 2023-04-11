@@ -43,6 +43,17 @@ to complete to help better develop your research toolbox:
    - [Creating a research web page](exercises/webpage.md)
    - [Developing an elevator pitch](exercises/elevator.md)
 
+
+### Projects
+
+The course also has two projects:
+
+   - Mini-Project: This project allows a student to meet and experiment
+     working with different faculty members in the department.
+   - Main Project: This project allows a student to work on a research
+     problem with a faculty member in the department with the goal of
+     developing a path towards a publishable research paper..
+
 ### Background
 
 The material that we have provided on this
@@ -88,7 +99,7 @@ We will welcome feedback on the material as we post it.
 
 Thanks!
 
-[Nick Feamster](http://www.cs.princeton.edu/~feamster/), *University of Chicago* <br />
+[Nick Feamster](http://people.cs.uchicago.edu/~feamster/), *University of Chicago* <br />
 [Alexander Gray](http://www.cc.gatech.edu/~agray/), *SkyTree, Inc.*
 
 **Note:** Both Nick and Alex have left Georgia Tech, so this course is
