@@ -43,7 +43,9 @@ to complete to help better develop your research toolbox:
    - [Creating a research web page](exercises/webpage.md)
    - [Developing an elevator pitch](exercises/elevator.md)
 
-**History and Background.** The material that we have provided on this
+### Background
+
+The material that we have provided on this
 site is based on a class that was designed by Professors Nick Feamster
 and Alex Gray from Fall 2006 through Fall 2010 at Georgia Tech.
 
