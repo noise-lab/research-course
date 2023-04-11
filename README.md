@@ -1,8 +1,8 @@
-**About this Site. **We (Professors [Nick
-Feamster](http://www.cs.princeton.edu/~feamster/ "Nick Feamster"){target="_blank"
-rel="noopener"} and [Alexander
-Gray](http://www.cc.gatech.edu/~agray/ "Alex Gray"){target="_blank"
-rel="noopener"}) created this site as a resource for advice on research
+## How to Do Great Research
+
+We (Professors [Nick
+Feamster](http://people.cs.uchicago.edu/~feamster/ "Nick Feamster") and [Alexander
+Gray](http://www.cc.gatech.edu/~agray/ "Alex Gray") created this site as a resource for advice on research
 and creativity methods and techniques for Ph.D. students. We originally
 created the material as part of a course offering at Georgia Tech (read
 on for the history).  The intended audience for this site is Ph.D.
@@ -28,7 +28,7 @@ pursue for your Ph.D. The material should:
 -   Find some inspiration regarding open problems and big ideas
 -   Offer general tips for life in graduate school and beyond
 
-**History and Background. **The material that we have provided on this
+**History and Background.** The material that we have provided on this
 site is based on a class that was designed by Professors Nick Feamster
 and Alex Gray from Fall 2006 through Fall 2010 at Georgia Tech.
 
@@ -44,9 +44,10 @@ developing a course at Georgia Tech, \"CS 7001: Introduction to Graduate
 Studies\", refining the concepts, methods, and assignments each year.
 
 We have learned a lot from these course offerings.  We have distilled
-many of our insights and lessons from teaching this course in a an [*ACM
-SIGCSE *paper](http://dl.acm.org/citation.cfm?doid=1352135.1352294 "Can Great Research Be Taught?"){target="_blank"
-rel="noopener"}.  On this site, we will codify the modules from the
+many of our insights and lessons from teaching this course in a an [ACM
+SIGCSE paper](http://dl.acm.org/citation.cfm?doid=1352135.1352294 "Can Great Research Be Taught?").  
+
+On this site, we will codify the modules from the
 course.  We have also made our course notes available on this site, for
 the benefit of both other Ph.D. students and for faculty at other
 universities who may choose to use this course as a model for similar
@@ -63,18 +64,15 @@ and course exercises digestible for a broader audience.
 
 We are working on adding all of the content to this site.  Meanwhile,
 please also feel free to peruse some of the previous course offerings
-(e.g., [2008](http://www.noise-lab.net/classes/cs7001/fall_2008/syllabus.html#Schedule "2008"){target="_blank"
-rel="noopener"}, [2009](http://www.noise-lab.net/classes/cs7001/fall_2009/syllabus.html#Schedule "2009"){target="_blank"
-rel="noopener"}).
+(e.g., [2008](http://www.noise-lab.net/classes/cs7001/fall_2008/syllabus.html#Schedule "2008"), 
+[2009](http://www.noise-lab.net/classes/cs7001/fall_2009/syllabus.html#Schedule "2009")).
 
 We will welcome feedback on the material as we post it.
 
 Thanks!
 
-[Nick Feamster](http://www.cs.princeton.edu/~feamster/){target="_blank"
-rel="noopener"}, *Princeton University\
-*[Alexander Gray](http://www.cc.gatech.edu/~agray/){target="_blank"
-rel="noopener"}, *SkyTree, Inc.*
+[Nick Feamster](http://www.cs.princeton.edu/~feamster/), *University of Chicago* <br />
+[Alexander Gray](http://www.cc.gatech.edu/~agray/), *SkyTree, Inc.*
 
 **Note:** Both Nick and Alex have left Georgia Tech, so this course is
 no longer offered at Georgia Tech in its current form. We will continue
