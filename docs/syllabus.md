@@ -13,163 +13,107 @@ training](http://www.rcr.gatech.edu/ "Responsible Conduct of Research"){target="
 rel="noopener"}.  To receive credit for this training, you must attend
 class on these days.**
 
-**Fall 2014 Schedule of Lessons**
+| Class | Lesson
+| Preparation                     |
+|-------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------------------|
+| 1     | Introduction and Overview
+&nbsp;
 
-**Week**
+Why do I want a Ph.D.?
+What job do I want?
 
-**Lessons**
+                                                                                                       |
+&nbsp;Why Ph.D.?                |
+| 2     | Fellowships: Why, where, how?
+| &nbsp;                          |
+| 3     | Motivation and Time ManagementPeople Skills and Advisor Managment
+| &nbsp;Time Log                  |
+| 4     | Recognizing Great Ideas
+&nbsp;
 
-**Preparation**
+Scientific revolutions
+Examples of scientific revolutions
+Examples of great researchers
 
-August 29
+                                                            | Recognizing
+Ideas               |
+| 5     | Generating Great Ideas
+&nbsp;
 
-Introduction and Overview
+Research patterns
+Creativity
+Cross-disciplinary thinking
 
- 
+                                                                                            |
+Creating Ideas                  |
+| 6     | &nbsp;Practical Survival Skills
+&nbsp;
 
--   Why do I want a Ph.D.?
--   What job do I want?
+Data analysis and presentation
+Programming and math
+Human subjects studies
 
- [Why
-Ph.D.?](http://greatresearch.org/exercises/why-ph-d/ "Why Ph.D.?"){target="_blank"
-rel="noopener"}
+                                                                 |
+&nbsp;Applying Ideas            |
+| 7     | &nbsp;Spreading Ideas
+&nbsp;
 
-September 5
+Writing papers and articles
+Presentations and talks
+Publication 2.0 (blogging, etc.)
+Science and engineering in society
 
-Fellowships: Why, where, how?
+                              | Multi-Resolution Elevator Pitch |
+| 8     | &nbsp;Critiquing Ideas
+&nbsp;
 
- 
+Peer review
+Reading papers
+Reviewing papers and the review process
+Offering feedback
 
-September 12
+                                                                | Critiquing
+Ideas                |
+| 9     | Graduate Student Panels
+&nbsp;
 
-Motivation and Time Management\
-People Skills and Advisor Managment
+Fun outside the lab
+Grad student survival skills
 
- [Time
-Log](http://greatresearch.org/exercises/time-log/ "Time Log"){target="_blank"
-rel="noopener"}
+                                                                                                   |
+&nbsp;Research Web Page         |
+| 10    | &nbsp;Mock Program Committee Meeting
+| &nbsp;                          |
+| 11    | &nbsp;Teaching and Mentoring
+&nbsp;
 
-September 19
+Teaching advice and methods
+How to give a good lecture
+How to get the most out of your TA experience
+Responsibilities of mentors and trainees
 
-Recognizing Great Ideas
+ | &nbsp;                          |
+| 12    | &nbsp;Research Ethics I
+&nbsp;
 
- 
+Human Subjects/Institutional Review Board
+Authorship and publication
+Plagiarism
+Collaborative Research
 
--   Scientific revolutions
--   Examples of scientific revolutions
--   Examples of great researchers
+                                             | &nbsp;
+|
+| 13    | Research Ethics II
+&nbsp;
 
-[Recognizing
-Ideas](http://greatresearch.org/exercises/recognizing-good-ideas/ "Recognizing Good Ideas"){target="_blank"
-rel="noopener"}
+Conflicts of interest
+Workplace conduct
+Data management
 
-September 26
-
-Generating Great Ideas
-
- 
-
--   Research patterns
--   Creativity
--   Cross-disciplinary thinking
-
-[Creating
-Ideas](http://greatresearch.org/exercises/creating-an-idea/ "Creating an Idea"){target="_blank"
-rel="noopener"}
-
-October 3
-
- [Practical Survival
-Skills]{style="font-style: inherit; line-height: 1.625;"}
-
- 
-
--   Data analysis and presentation
--   Programming and math
--   Human subjects studies
-
- [Applying
-Ideas](http://greatresearch.org/exercises/applying-ideas/ "Applying Ideas"){target="_blank"
-rel="noopener"}
-
-October 10
-
- Spreading Ideas
-
- 
-
--   Writing papers and articles
--   Presentations and talks
--   Publication 2.0 (blogging, etc.)
--   *Science and engineering in society*
-
-[Multi-Resolution Elevator
-Pitch](http://greatresearch.org/exercises/elevator-pitch/ "Elevator Pitch"){target="_blank"
-rel="noopener"}
-
-October 17
-
- Critiquing Ideas
-
- 
-
--   *Peer review*
--   Reading papers
--   [Reviewing papers and the review
-    process]{style="line-height: 19px;"}
--   Offering feedback
-
-[Critiquing
-Ideas](http://greatresearch.org/exercises/critiquing-ideas/ "Critiquing Ideas"){target="_blank"
-rel="noopener"}
-
-October 24
-
-Graduate Student Panels
-
- 
-
--   Fun outside the lab
--   Grad student survival skills
-
- [Research Web
-Page](http://greatresearch.org/exercises/research-web-page/ "Research Web Page"){target="_blank"
-rel="noopener"}
-
-October 31
-
- **Mock Program Committee Meeting**
-
- 
-
-November 7
-
- Teaching and Mentoring
-
- 
-
--   Teaching advice and methods
--   How to give a good lecture
--   How to get the most out of your TA experience
--   *Responsibilities of mentors and trainees*
-
- 
-
-November 14
-
- Research Ethics I
-
- 
-
--   *Human Subjects/Institutional Review Board*
--   [Authorship and publication]{style="line-height: 19px;"}
--   Plagiarism
--   Collaborative Research
-
-December 12
-
- **Mini-Conference**
-
+                                                                                                 |
+&nbsp;                          |
+| 14    | &nbsp;Mini-Conference
+| &nbsp;                          |
  
 
 **We are in the process of preparing the lecture notes for public
