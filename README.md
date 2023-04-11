@@ -1,34 +1,77 @@
 ## How to Do Great Research
 
-We (Professors [Nick
-Feamster](http://people.cs.uchicago.edu/~feamster/ "Nick Feamster") and [Alexander
-Gray](http://www.cc.gatech.edu/~agray/ "Alex Gray") created this site as a resource for advice on research
-and creativity methods and techniques for Ph.D. students. We originally
-created the material as part of a course offering at Georgia Tech (read
-on for the history).  The intended audience for this site is Ph.D.
-students in computer science programs, but many of the concepts that we
-present on this site may also apply to other disciplines.
+We (Professors [Nick Feamster](http://people.cs.uchicago.edu/~feamster/ "Nick
+Feamster") and [Alexander Gray](http://www.cc.gatech.edu/~agray/ "Alex Gray"))
+created a course as a resource for advice on research and creativity methods
+and techniques for Ph.D. students. We originally created the material as part
+of a course offering at Georgia Tech (read on for the history).  
 
-The material we have provided will prepare you to perform great research
-in computer science, regardless of the area you ultimately choose to
+The intended audience for this site is Ph.D.  students in computer science
+programs, but many of the concepts that we present on this site may also apply
+to other disciplines.
+
+### Blog
+
+Much of this material in this course is available in article format on my
+[Great Research](https://medium.com/great-research) blog.
+
+### Syllabus
+
+We have designed this material to fit into a one-term course. Here is a
+[schedule](syllabus.md) for how a course can organize topics, readings, and
+the assignments below.
+
+### Skills
+
+The material we have provided will prepare you to perform great
+research in computer science, regardless of the area you ultimately choose to
 pursue for your Ph.D. The material should:
 
--   Teach you many skills that you will keep in your \"research
-    toolbox\" for the rest of your career:
-    -   time management
-    -   productivity and (selective) procrastination
-    -   how to read a research paper
-    -   how to review a research paper
-    -   how to write a research paper (technical writing)
-    -   how to generate ideas, creativity, sources of problems
-    -   information management (research notebooks, etc.)
-    -   how to give a good talk
-    -   how to write a proposal
-    -   how to be a good TA
--   Find some inspiration regarding open problems and big ideas
--   Offer general tips for life in graduate school and beyond
+- Teach you many skills that you will keep in your \"research
+  toolbox\" for the rest of your career:
+    - [understanding the goals of a Ph.D.](slides/phy-why.ppt)
+    - [time management](slides/time-management.ppt)
+    - [productivity and (selective) procrastination](slides/motivation-and-procrastination.ppt)
+    - [how to read a research paper](slides/reading-reviewing.ppt)
+    - [how to review a research paper](slides/reading-reviewing.ppt)
+    - [how to write a research paper (technical writing)](slides/how-to-write.ppt)
+    - [understanding patterns in research ideas](slides/research-patterns.ppt)
+    - [how to generate ideas, creativity, sources of problems](slides/creativity.ppt)
+    - [people skills](slides/people-skills.ppt)
+    - [how to give a good talk](slides/how-to-give-a-talk.ppt)
+    - [how to think about jobs](slides/research-jobs.ppt)
+    - how to write a proposal
+    - how to be a good TA
+- Find some inspiration regarding open problems and big ideas
+- Offer general tips for life in graduate school and beyond
 
-**History and Background.** The material that we have provided on this
+### Exercises
+
+As part of the course we created, we developed several exercises
+to complete to help better develop your research toolbox:
+   - [Why a Ph.D.?](exercises/why-phd.md)
+   - [Recognizing good ideas](exercises/recognizing.md)
+   - [Creating research ideas](exercises/creating.md)
+   - [Applying research ideas across disciplines](exercises/applying.md)
+   - [Critiquing and evaluating research ideas](exercises/critiquing.md)
+   - [Managing time](exercises/time.md)
+   - [Creating a research web page](exercises/webpage.md)
+   - [Developing an elevator pitch](exercises/elevator.md)
+
+
+### Projects
+
+The course also has two projects:
+
+   - [Mini-Project](exercises/mini-project.md): This project allows a student to meet and experiment
+     working with different faculty members in the department.
+   - [Main Project](exercises/main-project.md): This project allows a student to work on a research
+     problem with a faculty member in the department with the goal of
+     developing a path towards a publishable research paper..
+
+### Background
+
+The material that we have provided on this
 site is based on a class that was designed by Professors Nick Feamster
 and Alex Gray from Fall 2006 through Fall 2010 at Georgia Tech.
 
@@ -71,7 +114,7 @@ We will welcome feedback on the material as we post it.
 
 Thanks!
 
-[Nick Feamster](http://www.cs.princeton.edu/~feamster/), *University of Chicago* <br />
+[Nick Feamster](http://people.cs.uchicago.edu/~feamster/), *University of Chicago* <br />
 [Alexander Gray](http://www.cc.gatech.edu/~agray/), *SkyTree, Inc.*
 
 **Note:** Both Nick and Alex have left Georgia Tech, so this course is
