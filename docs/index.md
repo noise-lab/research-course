@@ -31,12 +31,12 @@ pursue for your Ph.D. The material should:
 **Exercises** As part of the course we created, we developed several exercises
 to complete to help better develop your research toolbox:
    - [Recognizing good ideas](exercises/recognizing.md)
-   - Generating research ideas
-   - Applying research ideas across disciplines
-   - Critiquing and evaluating research ideas
-   - Managing time
-   - Creating a research web page
-   - Developing an elevator pitch
+   - [Creating research ideas](exercises/creating.md)
+   - [Applying research ideas across disciplines](exercises/applying.md)
+   - [Critiquing and evaluating research ideas](exercises/critiquing.md)
+   - [Managing time](exercises/time.md)
+   - [Creating a research web page](exercises/webpage.md)
+   - [Developing an elevator pitch](exercises/elevator.md)
 
 **History and Background.** The material that we have provided on this
 site is based on a class that was designed by Professors Nick Feamster
