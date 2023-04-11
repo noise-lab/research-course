@@ -4,10 +4,11 @@ We (Professors [Nick Feamster](http://people.cs.uchicago.edu/~feamster/ "Nick
 Feamster") and [Alexander Gray](http://www.cc.gatech.edu/~agray/ "Alex Gray"))
 created a course as a resource for advice on research and creativity methods
 and techniques for Ph.D. students. We originally created the material as part
-of a course offering at Georgia Tech (read on for the history).  The intended
-audience for this site is Ph.D.  students in computer science programs, but
-many of the concepts that we present on this site may also apply to other
-disciplines.
+of a course offering at Georgia Tech (read on for the history).  
+
+The intended audience for this site is Ph.D.  students in computer science
+programs, but many of the concepts that we present on this site may also apply
+to other disciplines.
 
 ### Blog
 
@@ -17,7 +18,8 @@ Much of this material in this course is available in article format on my
 ### Syllabus
 
 We have designed this material to fit into a one-term course. Here is a
-[syllabus](syllabus.md) containing that schedule.
+[schedule](syllabus.md) for how a course can organize topics, readings, and
+the assignments below.
 
 ### Skills
 
