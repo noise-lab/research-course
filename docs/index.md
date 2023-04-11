@@ -9,6 +9,16 @@ audience for this site is Ph.D.  students in computer science programs, but
 many of the concepts that we present on this site may also apply to other
 disciplines.
 
+### Blog
+
+Much of this material in this course is available in article format on my
+[Great Research](https://medium.com/great-research) blog.
+
+### Syllabus
+
+We have designed this material to fit into a one-term course. Here is a
+[syllabus](syllabus.md) containing that schedule.
+
 ### Skills
 
 The material we have provided will prepare you to perform great
@@ -17,14 +27,17 @@ pursue for your Ph.D. The material should:
 
 - Teach you many skills that you will keep in your \"research
   toolbox\" for the rest of your career:
-    - time management
-    - productivity and (selective) procrastination
-    - how to read a research paper
-    - how to review a research paper
-    - how to write a research paper (technical writing)
-    - how to generate ideas, creativity, sources of problems
-    - information management (research notebooks, etc.)
-    - how to give a good talk
+    - [understanding the goals of a Ph.D.](slides/phy-why.ppt)
+    - [time management](slides/time-management.ppt)
+    - [productivity and (selective) procrastination](slides/motivation-and-procrastination.ppt)
+    - [how to read a research paper](slides/reading-reviewing.ppt)
+    - [how to review a research paper](slides/reading-reviewing.ppt)
+    - [how to write a research paper (technical writing)](slides/how-to-write.ppt)
+    - [understanding patterns in research ideas](slides/research-patterns.ppt)
+    - [how to generate ideas, creativity, sources of problems](slides/creativity.ppt)
+    - [people skills](slides/people-skills.ppt)
+    - [how to give a good talk](slides/how-to-give-a-talk.ppt)
+    - [how to think about jobs](slides/research-jobs.ppt)
     - how to write a proposal
     - how to be a good TA
 - Find some inspiration regarding open problems and big ideas
