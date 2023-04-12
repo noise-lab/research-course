@@ -39,8 +39,9 @@ pursue for your Ph.D. The material should:
    - [How to generate ideas, creativity, sources of problems](https://medium.com/great-research/research-patterns-69c321ebd5fd) [[slides](slides/creativity.ppt)]
    - [People skills](https://medium.com/great-research/managing-your-advisor-bb9060f4f8ce) [[slides](slides/people-skills.ppt)]
    - [How to give a good talk](https://medium.com/great-research/how-to-give-a-sharp-technical-talk-77a2cad7b9fe) [[slides](slides/how-to-give-a-talk.ppt)]
-   - [How to write a proposal](https://medium.com/great-research/how-to-write-a-winning-project-proposal-fe438d4dc3a9)
    - [How to think about jobs](https://medium.com/great-research/industry-or-academia-a-counterpoint-9f0af318c909) [[slides](slides/research-jobs.ppt)]
+   - [How to write a proposal](https://medium.com/great-research/how-to-write-a-winning-project-proposal-fe438d4dc3a9)
+   - [Cultivating your taste in research](https://medium.com/great-research/cultivating-your-research-taste-ce77bbee7f2f)
    - Productivity and (selective) procrastination [[slides](slides/motivation-and-procrastination.ppt)]
    - How to read a research paper [[slides](slides/reading-reviewing.ppt)]
 
