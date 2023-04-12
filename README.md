@@ -30,17 +30,17 @@ pursue for your Ph.D. The material should:
 - Teach you many skills that you will keep in your \"research
   toolbox\" for the rest of your career. Each of these linked topics below
   includes a slide deck that could be used as part of a lecture.
-    - [understanding the goals of a Ph.D.](slides/phd-why.ppt)
-    - [time management](slides/time-management.ppt)
-    - [productivity and (selective) procrastination](slides/motivation-and-procrastination.ppt)
-    - [how to read a research paper](slides/reading-reviewing.ppt)
-    - [how to review a research paper](slides/reading-reviewing.ppt)
-    - [how to write a research paper (technical writing)](slides/how-to-write.ppt)
-    - [understanding patterns in research ideas](slides/research-patterns.ppt)
-    - [how to generate ideas, creativity, sources of problems](slides/creativity.ppt)
-    - [people skills](slides/people-skills.ppt)
-    - [how to give a good talk](slides/how-to-give-a-talk.ppt)
-    - [how to think about jobs](slides/research-jobs.ppt)
+    - [understanding the goals of a Ph.D.](docs/slides/phd-why.ppt)
+    - [time management](docs/slides/time-management.ppt)
+    - [productivity and (selective) procrastination](docs/slides/motivation-and-procrastination.ppt)
+    - [how to read a research paper](docs/slides/reading-reviewing.ppt)
+    - [how to review a research paper](docs/slides/reading-reviewing.ppt)
+    - [how to write a research paper (technical writing)](docs/slides/how-to-write.ppt)
+    - [understanding patterns in research ideas](docs/slides/research-patterns.ppt)
+    - [how to generate ideas, creativity, sources of problems](docs/slides/creativity.ppt)
+    - [people skills](docs/slides/people-skills.ppt)
+    - [how to give a good talk](docs/slides/how-to-give-a-talk.ppt)
+    - [how to think about jobs](docs/slides/research-jobs.ppt)
     - how to write a proposal
     - how to be a good TA
 - Find some inspiration regarding open problems and big ideas
@@ -48,27 +48,27 @@ pursue for your Ph.D. The material should:
 
 ### Exercises
 
-As part of the course we created, we developed several [exercises](exercises.md)
+As part of the course we created, we developed several [docs/exercises](docs/exercises.md)
 to complete to help better develop your research toolbox:
-   - [Recognizing good ideas](exercises/recognizing.md)
-   - [Creating research ideas](exercises/creating.md)
-   - [Applying research ideas across disciplines](exercises/applying.md)
-   - [Critiquing and evaluating research ideas](exercises/critiquing.md)
+   - [Recognizing good ideas](docs/exercises/recognizing.md)
+   - [Creating research ideas](docs/exercises/creating.md)
+   - [Applying research ideas across disciplines](docs/exercises/applying.md)
+   - [Critiquing and evaluating research ideas](docs/exercises/critiquing.md)
 
-We also have developed several mini-exercises that should be practically
+We also have developed several mini-docs/exercises that should be practically
 useful for many Ph.D. students:
-   - [Why a Ph.D.?](exercises/why-phd.md)
-   - [Managing time](exercises/time.md)
-   - [Creating a research web page](exercises/webpage.md)
-   - [Developing an elevator pitch](exercises/elevator.md)
+   - [Why a Ph.D.?](docs/exercises/why-phd.md)
+   - [Managing time](docs/exercises/time.md)
+   - [Creating a research web page](docs/exercises/webpage.md)
+   - [Developing an elevator pitch](docs/exercises/elevator.md)
 
 
 ### Projects
 
 The course also has two projects:
-   - [Mini-Project](exercises/mini-project.md): This project allows a student to meet and experiment
+   - [Mini-Project](docs/exercises/mini-project.md): This project allows a student to meet and experiment
      working with different faculty members in the department.
-   - [Main Project](exercises/main-project.md): This project allows a student to work on a research
+   - [Main Project](docs/exercises/main-project.md): This project allows a student to work on a research
      problem with a faculty member in the department with the goal of
      developing a path towards a publishable research paper.
 
