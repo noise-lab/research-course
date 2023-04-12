@@ -47,13 +47,16 @@ pursue for your Ph.D. The material should:
 
 ### Exercises
 
-As part of the course we created, we developed several exercises
+As part of the course we created, we developed several [exercises](exercises.md)
 to complete to help better develop your research toolbox:
-   - [Why a Ph.D.?](exercises/why-phd.md)
    - [Recognizing good ideas](exercises/recognizing.md)
    - [Creating research ideas](exercises/creating.md)
    - [Applying research ideas across disciplines](exercises/applying.md)
    - [Critiquing and evaluating research ideas](exercises/critiquing.md)
+
+We also have developed several mini-exercises that should be practically
+useful for many Ph.D. students:
+   - [Why a Ph.D.?](exercises/why-phd.md)
    - [Managing time](exercises/time.md)
    - [Creating a research web page](exercises/webpage.md)
    - [Developing an elevator pitch](exercises/elevator.md)
@@ -62,7 +65,6 @@ to complete to help better develop your research toolbox:
 ### Projects
 
 The course also has two projects:
-
    - [Mini-Project](exercises/mini-project.md): This project allows a student to meet and experiment
      working with different faculty members in the department.
    - [Main Project](exercises/main-project.md): This project allows a student to work on a research
@@ -87,7 +89,7 @@ developing a course at Georgia Tech, \"CS 7001: Introduction to Graduate
 Studies\", refining the concepts, methods, and assignments each year.
 
 We have learned a lot from these course offerings.  We have distilled
-many of our insights and lessons from teaching this course in a an [ACM
+many of our insights and lessons from teaching this course in an [ACM
 SIGCSE paper](http://dl.acm.org/citation.cfm?doid=1352135.1352294 "Can Great Research Be Taught?").  
 
 On this site, we will codify the modules from the
@@ -101,7 +103,7 @@ universities.  We have made the material from the course available to
 others for the benefit of both computer science Ph.D. students and
 others who might wish to teach a similar course.
 
-Nick and Alex created this site in Fall 2013 to add blog post material
+We created this site in Fall 2013 to add blog post material
 to the course content that already existed, to make the research advice
 and course exercises digestible for a broader audience.
 
