@@ -88,3 +88,16 @@ others for the benefit of both computer science Ph.D. students and others who
 might wish to teach a similar course.
 
 You can read more about the course background [here](background.md).
+
+### License
+
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img
+alt="Creative Commons License" style="border-width:0"
+src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br /><span
+xmlns:dct="http://purl.org/dc/terms/" property="dct:title">How to Do Great
+Research</span> by <a xmlns:cc="http://creativecommons.org/ns#"
+href="https://noise-lab.github.io/research-course/"
+property="cc:attributionName" rel="cc:attributionURL">Nick Feamster</a> is
+licensed under a <a rel="license"
+href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
