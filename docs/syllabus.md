@@ -9,7 +9,8 @@
 | 3           | Time Management                   | [Time Management](https://medium.com/great-research/time-management-and-productivity-tactics-for-unstructured-work-ab269a9d2cc4) |
 | 4           | People Skills, Advisor Management | [Managing Your Advisor](https://medium.com/great-research/managing-your-advisor-bb9060f4f8ce)                  |
 | 5           | Recognizing Great Ideas           | Recognizing Ideas |
-| 6           | Generating Great Ideas            | Creating Ideas    |
+| 6           | Generating Great Ideas            | [Research
+Patterns](https://medium.com/great-research/research-patterns-69c321ebd5fd) |
 | 7           | Survival Skills                   | [How to Give a Talk](https://medium.com/great-research/how-to-give-a-sharp-technical-talk-77a2cad7b9fe) |
 | 8           | Communicating Ideas               | [Elevator Pitch](https://medium.com/great-research/tell-me-a-story-why-you-need-a-good-elevator-pitch-f69620c9ceeb)    |
 | 9           | Evaluating Ideas                  | Critiquing Ideas  |
