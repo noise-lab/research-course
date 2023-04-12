@@ -1,3 +1,16 @@
+## Exercises
+
+An organized list of exercises is [here](exercises.md).
+
+## Slides
+
+Slides are [here](https://github.com/noise-lab/research-course/tree/master/docs/slides).
+
+## Reading
+
+* [Research blog](https://medium.com/great-research).
+* [Other readings](reading.md)
+
 ## Schedule
 
 **Please conduct all preparation *before* *class.***
@@ -19,12 +32,3 @@
 | 13          | Research Ethics I                 |                   |
 | 14          | Research Ethics II                |                   |
 | 15          | Mini Conference                   |                   |
-
-## Slides
-
-Slides are [here](https://github.com/noise-lab/research-course/tree/master/docs/slides).
-
-## Reading
-
-* [Research blog](https://medium.com/great-research).
-* [Other readings](reading.md)
