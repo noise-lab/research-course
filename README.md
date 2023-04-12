@@ -40,9 +40,9 @@ pursue for your Ph.D. The material should:
    - [People skills](https://medium.com/great-research/managing-your-advisor-bb9060f4f8ce) [[slides](docs/slides/people-skills.ppt)]
    - [How to give a good talk](https://medium.com/great-research/how-to-give-a-sharp-technical-talk-77a2cad7b9fe) [[slides](docs/slides/how-to-give-a-talk.ppt)]
    - [How to write a proposal](https://medium.com/great-research/how-to-write-a-winning-project-proposal-fe438d4dc3a9)
+   - [How to think about jobs](https://medium.com/great-research/industry-or-academia-a-counterpoint-9f0af318c909) [[slides](docs/slides/research-jobs.ppt)]
    - Productivity and (selective) procrastination [[slides](docs/slides/motivation-and-procrastination.ppt)]
    - How to read a research paper [[slides](docs/slides/reading-reviewing.ppt)]
-   - How to think about jobs [[slides](docs/slides/research-jobs.ppt)]
 
 - Find some inspiration regarding open problems and big ideas
 - Offer general tips for life in graduate school and beyond
