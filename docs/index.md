@@ -1,7 +1,7 @@
 ## How to Do Great Research
 
 We (Professors [Nick Feamster](http://people.cs.uchicago.edu/~feamster/ "Nick
-Feamster") and [Alexander Gray](http://www.cc.gatech.edu/~agray/ "Alex Gray"))
+Feamster") and [Alex Gray](https://www.linkedin.com/in/alexander-gray-b554b64/))
 created a course as a resource for advice on research and creativity methods
 and techniques for Ph.D. students. We originally created the material as part
 of a course offering at Georgia Tech (read on for the history).  

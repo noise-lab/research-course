@@ -31,7 +31,7 @@ We will welcome feedback on the material as we post it.
 Thanks!
 
 [Nick Feamster](http://people.cs.uchicago.edu/~feamster/), *University of Chicago* <br />
-[Alexander Gray](http://www.cc.gatech.edu/~agray/), *SkyTree, Inc.*
+[Alexander Gray](https://www.linkedin.com/in/alexander-gray-b554b64/), *IBM*
 
 **Note:** Both Nick and Alex have left Georgia Tech, so this course is
 no longer offered at Georgia Tech in its current form. We will continue
