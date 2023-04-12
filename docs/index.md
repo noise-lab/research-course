@@ -10,11 +10,15 @@ The intended audience for this site is Ph.D.  students in computer science
 programs, but many of the concepts that we present on this site may also apply
 to other disciplines.
 
-### Blog
+### Reading
 
 Much of this material in this course is available in article format on my
 [Great Research](https://medium.com/great-research) blog. Links to specific
 topics are included below.
+
+Philipp Winter's [Research Power Tools](https://research-power-tools.com/) is
+also an excellent read and is [available online](https://nymity.ch/book/), as
+well.
 
 ### Syllabus
 

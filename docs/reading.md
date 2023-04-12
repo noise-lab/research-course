@@ -8,6 +8,10 @@ below to send us links to add.
 
 ## Books
 
+**Research Process**
+
+- Philipp Winter, [Research Power Tools](https://nymity.ch/book/)
+
 **On Great Ideas**
 
 -   Thomas Kuhn, [The Structure of Scientific Revolutions](http://goo.gl/CJKWu)
