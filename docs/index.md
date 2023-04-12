@@ -30,7 +30,7 @@ pursue for your Ph.D. The material should:
 - Teach you many skills that you will keep in your \"research
   toolbox\" for the rest of your career. Each of these linked topics below
   includes a slide deck that could be used as part of a lecture.
-    - [understanding the goals of a Ph.D.](slides/phd-why.ppt)
+    - understanding the goals of a Ph.D. <a href="slides/phd-why.ppt">[ppt]</a>
     - [time management](slides/time-management.ppt)
     - [productivity and (selective) procrastination](slides/motivation-and-procrastination.ppt)
     - [how to read a research paper](slides/reading-reviewing.ppt)
