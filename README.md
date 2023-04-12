@@ -1,7 +1,7 @@
 ## How to Do Great Research
 
 We (Professors [Nick Feamster](http://people.cs.uchicago.edu/~feamster/ "Nick
-Feamster") and [Alexander Gray](http://www.cc.gatech.edu/~agray/ "Alex Gray"))
+Feamster") and [Alex Gray](https://www.linkedin.com/in/alexander-gray-b554b64/))
 created a course as a resource for advice on research and creativity methods
 and techniques for Ph.D. students. We originally created the material as part
 of a course offering at Georgia Tech (read on for the history).  
@@ -18,7 +18,7 @@ Much of this material in this course is available in article format on my
 ### Syllabus
 
 We have designed this material to fit into a one-term course. Here is a
-[schedule](docs/syllabus.md) for how a course can organize topics, readings, and
+[schedule](syllabus.md) for how a course can organize topics, readings, and
 the assignments below.
 
 ### Skills
@@ -28,18 +28,19 @@ research in computer science, regardless of the area you ultimately choose to
 pursue for your Ph.D. The material should:
 
 - Teach you many skills that you will keep in your \"research
-  toolbox\" for the rest of your career:
-    - [understanding the goals of a Ph.D.](docs/slides/phy-why.ppt)
-    - [time management](docs/slides/time-management.ppt)
-    - [productivity and (selective) procrastination](docs/slides/motivation-and-procrastination.ppt)
-    - [how to read a research paper](docs/slides/reading-reviewing.ppt)
-    - [how to review a research paper](docs/slides/reading-reviewing.ppt)
-    - [how to write a research paper (technical writing)](docs/slides/how-to-write.ppt)
-    - [understanding patterns in research ideas](docs/slides/research-patterns.ppt)
-    - [how to generate ideas, creativity, sources of problems](docs/slides/creativity.ppt)
-    - [people skills](docs/slides/people-skills.ppt)
-    - [how to give a good talk](docs/slides/how-to-give-a-talk.ppt)
-    - [how to think about jobs](docs/slides/research-jobs.ppt)
+  toolbox\" for the rest of your career. Each of these linked topics below
+  includes a slide deck that could be used as part of a lecture.
+    - [understanding the goals of a Ph.D.](slides/phd-why.ppt)
+    - [time management](slides/time-management.ppt)
+    - [productivity and (selective) procrastination](slides/motivation-and-procrastination.ppt)
+    - [how to read a research paper](slides/reading-reviewing.ppt)
+    - [how to review a research paper](slides/reading-reviewing.ppt)
+    - [how to write a research paper (technical writing)](slides/how-to-write.ppt)
+    - [understanding patterns in research ideas](slides/research-patterns.ppt)
+    - [how to generate ideas, creativity, sources of problems](slides/creativity.ppt)
+    - [people skills](slides/people-skills.ppt)
+    - [how to give a good talk](slides/how-to-give-a-talk.ppt)
+    - [how to think about jobs](slides/research-jobs.ppt)
     - how to write a proposal
     - how to be a good TA
 - Find some inspiration regarding open problems and big ideas
@@ -47,77 +48,43 @@ pursue for your Ph.D. The material should:
 
 ### Exercises
 
-As part of the course we created, we developed several docs/exercises
+As part of the course we created, we developed several [exercises](exercises.md)
 to complete to help better develop your research toolbox:
-   - [Why a Ph.D.?](docs/exercises/why-phd.md)
-   - [Recognizing good ideas](docs/exercises/recognizing.md)
-   - [Creating research ideas](docs/exercises/creating.md)
-   - [Applying research ideas across disciplines](docs/exercises/applying.md)
-   - [Critiquing and evaluating research ideas](docs/exercises/critiquing.md)
-   - [Managing time](docs/exercises/time.md)
-   - [Creating a research web page](docs/exercises/webpage.md)
-   - [Developing an elevator pitch](docs/exercises/elevator.md)
+   - [Recognizing good ideas](exercises/recognizing.md)
+   - [Creating research ideas](exercises/creating.md)
+   - [Applying research ideas across disciplines](exercises/applying.md)
+   - [Critiquing and evaluating research ideas](exercises/critiquing.md)
+
+We also have developed several mini-exercises that should be practically
+useful for many Ph.D. students:
+   - [Why a Ph.D.?](exercises/why-phd.md)
+   - [Managing time](exercises/time.md)
+   - [Creating a research web page](exercises/webpage.md)
+   - [Developing an elevator pitch](exercises/elevator.md)
 
 
 ### Projects
 
 The course also has two projects:
-
-   - [Mini-Project](docs/exercises/mini-project.md): This project allows a student to meet and experiment
+   - [Mini-Project](exercises/mini-project.md): This project allows a student to meet and experiment
      working with different faculty members in the department.
-   - [Main Project](docs/exercises/main-project.md): This project allows a student to work on a research
+   - [Main Project](exercises/main-project.md): This project allows a student to work on a research
      problem with a faculty member in the department with the goal of
-     developing a path towards a publishable research paper..
+     developing a path towards a publishable research paper.
 
 ### Background
 
-The material that we have provided on this
-site is based on a class that was designed by Professors Nick Feamster
-and Alex Gray from Fall 2006 through Fall 2010 at Georgia Tech.
-
-This project started in Fall 2006, when the two of us were asked to
-prepare a course for incoming Ph.D. students at Georgia Tech to help
-them become exposed to research methods early in their career.  After
-agreeing to take on the preparation of this new course, we quickly
-discovered that, while there is a wealth of knowledge about research
-techniques and methods, and many thoughts on skills for creative and
-critical thinking, this material had not been aggregated or distilled
-into a single document or course.  We spent the next five years
-developing a course at Georgia Tech, \"CS 7001: Introduction to Graduate
-Studies\", refining the concepts, methods, and assignments each year.
+The material that we have provided on this site is based on a class that was
+designed by Professors Nick Feamster and Alex Gray from Fall 2006 through Fall
+2010 at Georgia Tech.
 
 We have learned a lot from these course offerings.  We have distilled
-many of our insights and lessons from teaching this course in a an [ACM
+many of our insights and lessons from teaching this course in an [ACM
 SIGCSE paper](http://dl.acm.org/citation.cfm?doid=1352135.1352294 "Can Great Research Be Taught?").  
 
-On this site, we will codify the modules from the
-course.  We have also made our course notes available on this site, for
-the benefit of both other Ph.D. students and for faculty at other
-universities who may choose to use this course as a model for similar
-courses at their institutions.
+Various aspects of this course have been used and replicated at universities
+around the world.  We have made the material from the course available to
+others for the benefit of both computer science Ph.D. students and others who
+might wish to teach a similar course.
 
-Various aspects of this course have been replicated at other
-universities.  We have made the material from the course available to
-others for the benefit of both computer science Ph.D. students and
-others who might wish to teach a similar course.
-
-Nick and Alex created this site in Fall 2013 to add blog post material
-to the course content that already existed, to make the research advice
-and course docs/exercises digestible for a broader audience.
-
-We are working on adding all of the content to this site.  Meanwhile,
-please also feel free to peruse some of the previous course offerings
-(e.g., [2008](http://www.noise-lab.net/classes/cs7001/fall_2008/syllabus.html#Schedule "2008"), 
-[2009](http://www.noise-lab.net/classes/cs7001/fall_2009/syllabus.html#Schedule "2009")).
-
-We will welcome feedback on the material as we post it.
-
-Thanks!
-
-[Nick Feamster](http://people.cs.uchicago.edu/~feamster/), *University of Chicago* <br />
-[Alexander Gray](http://www.cc.gatech.edu/~agray/), *SkyTree, Inc.*
-
-**Note:** Both Nick and Alex have left Georgia Tech, so this course is
-no longer offered at Georgia Tech in its current form. We will continue
-to maintain the blog as a space for posting research advice.  We welcome
-guest posts!
+You can read more about the course background [here](background.md).
