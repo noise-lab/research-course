@@ -13,7 +13,8 @@ to other disciplines.
 ### Blog
 
 Much of this material in this course is available in article format on my
-[Great Research](https://medium.com/great-research) blog.
+[Great Research](https://medium.com/great-research) blog. Links to specific
+topics are included below.
 
 ### Syllabus
 
