@@ -29,20 +29,20 @@ pursue for your Ph.D. The material should:
 
 - Teach you many skills that you will keep in your \"research
   toolbox\" for the rest of your career. Each of these linked topics below
-  includes a slide deck that could be used as part of a lecture.
-    - [understanding the goals of a Ph.D.](slides/phd-why.ppt)
-    - [time management](slides/time-management.ppt)
-    - [productivity and (selective) procrastination](slides/motivation-and-procrastination.ppt)
-    - [how to read a research paper](slides/reading-reviewing.ppt)
-    - [how to review a research paper](slides/reading-reviewing.ppt)
-    - [how to write a research paper (technical writing)](slides/how-to-write.ppt)
-    - [understanding patterns in research ideas](slides/research-patterns.ppt)
-    - [how to generate ideas, creativity, sources of problems](slides/creativity.ppt)
-    - [people skills](slides/people-skills.ppt)
-    - [how to give a good talk](slides/how-to-give-a-talk.ppt)
-    - [how to think about jobs](slides/research-jobs.ppt)
-    - how to write a proposal
-    - how to be a good TA
+  includes a reading, slides, or both that could be used as part of a lecture.
+   - Understanding the goals of a Ph.D. [[slides]](slides/phd-why.ppt)
+   - Time management [[slides]](slides/time-management.ppt)
+   - Motivation and  procrastination [[slides]](slides/motivation-and-procrastination.ppt)
+   - How to read a research paper [[slides]](slides/reading-reviewing.ppt)
+   - How to review a research paper [[slides]](slides/reading-reviewing.ppt)
+   - How to write a research paper (technical writing) [[slides]](slides/how-to-write.ppt)
+   - Understanding patterns in research ideas [[slides]](slides/research-patterns.ppt)
+   - How to generate ideas, creativity, sources of problems [[slides]](slides/creativity.ppt)
+   - People skills [[slides]](slides/people-skills.ppt)
+   - How to give a good talk [[slides]](slides/how-to-give-a-talk.ppt)
+   - How to think about jobs [[slides]](slides/research-jobs.ppt)
+   - How to write a proposal
+   - how to be a good TA
 - Find some inspiration regarding open problems and big ideas
 - Offer general tips for life in graduate school and beyond
 
