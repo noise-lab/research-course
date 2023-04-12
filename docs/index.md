@@ -32,15 +32,15 @@ pursue for your Ph.D. The material should:
   includes a reading, slides, or both that could be used as part of a lecture.
    - [Understanding the goals of a Ph.D.](https://medium.com/great-research/do-you-need-a-ph-d-f78d2fb0f286) [[slides]](slides/phd-why.ppt)
    - [Time management](https://medium.com/great-research/time-management-and-productivity-tactics-for-unstructured-work-ab269a9d2cc4) [[slides]](slides/time-management.ppt)
-   - [Productivity and (selective) procrastination](slides/motivation-and-procrastination.ppt)
-   - How to read a research paper [slides](slides/reading-reviewing.ppt)
+   - Productivity and (selective) procrastination [[slides]](slides/motivation-and-procrastination.ppt)
+   - How to read a research paper [[slides]](slides/reading-reviewing.ppt)
    - [How to review a research paper](https://medium.com/great-research/the-paper-reviewing-process-aa57809509d7) [[slides]](slides/reading-reviewing.ppt)
    - [How to write a research paper (technical writing)](https://medium.com/great-research/storytelling-101-writing-tips-for-academics-d9eec50eec9) [[slides]](slides/how-to-write.ppt)
    - [Understanding patterns in research ideas](https://medium.com/great-research/research-patterns-69c321ebd5fd) [[slides]](slides/research-patterns.ppt)
    - [How to generate ideas, creativity, sources of problems](https://medium.com/great-research/research-patterns-69c321ebd5fd) [[slides]](slides/creativity.ppt)
    - [People skills](https://medium.com/great-research/managing-your-advisor-bb9060f4f8ce) [[slides]](slides/people-skills.ppt)
    - [How to give a good talk](https://medium.com/great-research/how-to-give-a-sharp-technical-talk-77a2cad7b9fe) [[slides]](slides/how-to-give-a-talk.ppt)
-   - How to think about jobs [slides](slides/research-jobs.ppt)
+   - How to think about jobs [[slides]](slides/research-jobs.ppt)
    - [How to write a proposal](https://medium.com/great-research/how-to-write-a-winning-project-proposal-fe438d4dc3a9)
 
 - Find some inspiration regarding open problems and big ideas
