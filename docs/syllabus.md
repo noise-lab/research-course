@@ -23,7 +23,7 @@ Slides are [here](https://github.com/noise-lab/research-course/tree/master/docs/
 | 4           | People Skills, Advisor Management | [Managing Your Advisor](https://medium.com/great-research/managing-your-advisor-bb9060f4f8ce)                  |
 | 5           | Recognizing Great Ideas           | Recognizing Ideas |
 | 6           | Generating Great Ideas            | [Research Patterns](https://medium.com/great-research/research-patterns-69c321ebd5fd) |
-| 7           | Survival Skills                   | [How to Give a Talk](https://medium.com/great-research/how-to-give-a-sharp-technical-talk-77a2cad7b9fe) |
+| 7           | Research Methods                  | [How to Give a Talk](https://medium.com/great-research/how-to-give-a-sharp-technical-talk-77a2cad7b9fe) |
 | 8           | Communicating Ideas               | [Elevator Pitch](https://medium.com/great-research/tell-me-a-story-why-you-need-a-good-elevator-pitch-f69620c9ceeb)    |
 | 9           | Evaluating Ideas                  | [Reviewing Papers](https://medium.com/great-research/the-paper-reviewing-process-aa57809509d7) |
 | 10          | Graduate Student Panels           | Research Web Page |
