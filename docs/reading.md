@@ -36,7 +36,8 @@ below to send us links to add.
 
 -   Paul Baran
     -   [On Distributed Communications Networks](http://www.gtnoise.net/classes/cs7001/fall_2008/readings/baran.pdf)
-    -   [Interview](http://www.gtnoise.net/classes/cs7001/fall_2008/readings/baran-int.pdf) -   Richard Hamming
+    -   [Interview](http://www.gtnoise.net/classes/cs7001/fall_2008/readings/baran-int.pdf) 
+-   Richard Hamming
     -   [You and Your Research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.pdf)
 
 
