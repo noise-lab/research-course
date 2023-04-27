@@ -16,7 +16,7 @@ below to send us links to add.
 
 -   Thomas Kuhn, [The Structure of Scientific Revolutions](http://goo.gl/CJKWu)
 -   James Adams, [Conceptual Blockbusting: A Guide to Better Ideas](http://goo.gl/RgOnY)
--   James Burke, [Connections](http://goo.gl/xj3k9)}
+-   James Burke, [Connections](http://goo.gl/xj3k9)
 
 **Writing and Speaking**
 
