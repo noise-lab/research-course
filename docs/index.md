@@ -13,7 +13,7 @@ to other disciplines.
 ### Reading
 
 Much of this material in this course is available in article format on my
-[Great Research](https://medium.com/great-research) blog. Links to specific
+[Practice Space](https://practicespace.substack.com/s/research-advice) blog. Links to specific
 topics are included below.
 
 Philipp Winter's [Research Power Tools](https://research-power-tools.com/) is
@@ -35,17 +35,17 @@ pursue for your Ph.D. The material should:
 - Teach you many skills that you will keep in your \"research
   toolbox\" for the rest of your career. Each of these linked topics below
   includes a reading, slides, or both that could be used as part of a lecture.
-   - [Understanding the goals of a Ph.D.](https://medium.com/great-research/do-you-need-a-ph-d-f78d2fb0f286) [[slides](slides/phd-why.ppt)]
-   - [Time management](https://medium.com/great-research/time-management-and-productivity-tactics-for-unstructured-work-ab269a9d2cc4) [[slides](slides/time-management.ppt)]
-   - [How to review a research paper](https://medium.com/great-research/the-paper-reviewing-process-aa57809509d7) [[slides](slides/reading-reviewing.ppt)]
-   - [How to write a research paper (technical writing)](https://medium.com/great-research/storytelling-101-writing-tips-for-academics-d9eec50eec9) [[slides](slides/how-to-write.ppt)]
-   - [Understanding patterns in research ideas](https://medium.com/great-research/research-patterns-69c321ebd5fd) [[slides](slides/research-patterns.ppt)]
-   - [How to generate ideas, creativity, sources of problems](https://medium.com/great-research/research-patterns-69c321ebd5fd) [[slides](slides/creativity.ppt)]
-   - [People skills](https://medium.com/great-research/managing-your-advisor-bb9060f4f8ce) [[slides](slides/people-skills.ppt)]
-   - [How to give a good talk](https://medium.com/great-research/how-to-give-a-sharp-technical-talk-77a2cad7b9fe) [[slides](slides/how-to-give-a-talk.ppt)]
-   - [How to think about jobs](https://medium.com/great-research/industry-or-academia-a-counterpoint-9f0af318c909) [[slides](slides/research-jobs.ppt)]
-   - [How to write a proposal](https://medium.com/great-research/how-to-write-a-winning-project-proposal-fe438d4dc3a9)
-   - [Cultivating your taste in research](https://medium.com/great-research/cultivating-your-research-taste-ce77bbee7f2f)
+   - [Understanding the goals of a Ph.D.](https://practicespace.substack.com/p/do-you-need-a-phd) [[slides](slides/phd-why.ppt)]
+   - [Time management](https://practicespace.substack.com/p/time-management-and-productivity) [[slides](slides/time-management.ppt)]
+   - [How to review a research paper](https://practicespace.substack.com/p/the-paper-reviewing-process-bd7) [[slides](slides/reading-reviewing.ppt)]
+   - [How to write a research paper (technical writing)](https://practicespace.substack.com/p/storytelling-101-writing-tips-for) [[slides](slides/how-to-write.ppt)]
+   - [Understanding patterns in research ideas](https://practicespace.substack.com/p/research-patterns-253) [[slides](slides/research-patterns.ppt)]
+   - [How to generate ideas, creativity, sources of problems](https://practicespace.substack.com/p/research-patterns-253) [[slides](slides/creativity.ppt)]
+   - [People skills](https://practicespace.substack.com/p/managing-your-advisor) [[slides](slides/people-skills.ppt)]
+   - [How to give a good talk](https://practicespace.substack.com/p/how-to-give-a-sharp-technical-talk) [[slides](slides/how-to-give-a-talk.ppt)]
+   - [How to think about jobs](https://practicespace.substack.com/p/industry-or-academia-a-counterpoint) [[slides](slides/research-jobs.ppt)]
+   - [How to write a proposal](https://practicespace.substack.com/p/how-to-write-a-winning-project-proposal)
+   - [Cultivating your taste in research](https://practicespace.substack.com/p/cultivating-your-research-taste)
    - Productivity and (selective) procrastination [[slides](slides/motivation-and-procrastination.ppt)]
    - How to read a research paper [[slides](slides/reading-reviewing.ppt)]
 
